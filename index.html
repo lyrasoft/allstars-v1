@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+    <head>
+        <title>星辰設計 - 高品質網站建置與網頁設計</title>
+
+        <link rel="shortcut icon" href="img/favicon.png" type="image/x-icon">
+        <link rel="icon" href="img/favicon.png" type="image/x-icon">
+
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="星辰設計 - 高品質網站建置與網頁設計">
+
+        <!--bootstrap css-->
+        <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+        <!--custom css-->
+        <link href="css/style.css" rel="stylesheet" type="text/css">
+        <!--flex slider css-->
+        <link href="css/flexslider.css" rel="stylesheet">
+        <!--google web fonts css-->
+        <link href='http://fonts.googleapis.com/css?family=Raleway:400,300,500,600,800' rel='stylesheet' type='text/css'>
+        
+        <!-- icons css-->
+        <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet">
+        <!--animated css-->
+        <link href="css/animate.css" rel="stylesheet">
+        <!-- The HTML5 shim, for IE6-8 support of HTML5 elements -->
+        <!--[if lt IE 9]>
+        <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+        <script src="js/respond.min.js"></script>
+        <![endif]-->
+
+        <style>
+            body, h1, h2, h3, h4, h5, h6 {
+                font-family: "Source Sans Pro", "PingFang TC", "HeiTi TC", "微軟正黑體", sans-serif;
+            }
+        </style>
+    </head>
+    <body class="soon-bg">
+
+        <div class="container soon">
+            <div class="row">
+                <div class="col-md-12 text-center animated fadeInDown">
+                    <h1 class="sr-only">星辰設計</h1>
+                    <img width="450" height="450" src="img/allstars-logo-alpha.png" alt="星辰設計">
+                    <h2>即將到來</h2>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12 text-center animated fadeInUp">
+                    <div id="defaultCountdown"></div><!--countdown-->
+                </div>
+            </div>
+        </div><!--countdown-->
+        <!--<div class="container">-->
+            <!--<div class="row">-->
+                <!--<div class="col-sm-6 col-sm-offset-3 text-center animated fadeInLeft">-->
+                    <!--<form role="form" method="post" action="#" class="subscribe-form  codeon-newsletter">-->
+                        <!--<div class="form-group">-->
+                             <!--<input type="text" class="form-control" name="email" placeholder="Enter email to subscribe">-->
+                        <!--</div>-->
+                        <!--<button class="btn-theme-color btn btn-lg" name="submit" type="submit">Notify me</button>-->
+                        <!--&lt;!&ndash; <button type="submit" class="btn-theme-color btn btn-lg">Notify me</button> &ndash;&gt;-->
+                    <!--</form>-->
+                <!--</div>-->
+            <!--</div>-->
+        <!--</div>-->
+        <div class="footer-soon">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12 text-center">
+                        <ul class="list-inline social-colored animated fadeInRight"> 
+                            <li><a href="javascript: void(0);"><i class="fa fa-facebook icon-fb" data-toggle="tooltip" title="" data-original-title="Facebook" data-placement="top"></i></a></li>
+                            <li><a href="javascript: void(0);"><i class="fa fa-twitter icon-twit" data-toggle="tooltip" title="" data-original-title="Twitter" data-placement="top"></i></a></li>
+                            <li><a href="javascript: void(0);"><i class="fa fa-google-plus icon-plus" data-toggle="tooltip" title="" data-original-title="Google pluse" data-placement="top"></i></a></li>
+                            <li><a href="javascript: void(0);"><i class="fa fa-linkedin icon-in" data-toggle="tooltip" title="" data-original-title="Linkedin" data-placement="top"></i></a></li>
+                        </ul>
+                        <p class="animated fadeInUp">Copyright &copy; 2017 - Allstars</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+            <!--back to top-->
+        <a href="#" class="scrollToTop"><i class="fa fa-angle-up"></i></a>
+        <!--back to top end-->
+
+        <!--script files-->
+        <script src="js/jquery.min.js" type="text/javascript"></script>
+        <script src="js/pace.min.js" type="text/javascript"></script>
+        <!--countdown coming soon-->
+        <script src="js/jquery.countdown.js" type="text/javascript"></script>
+        <script type="text/javascript">
+            $(function() {
+                var austDay = new Date();
+                austDay = new Date('2017-03-29');
+                $('#defaultCountdown').countdown({until: austDay});
+                $('#year').text(austDay.getFullYear());
+            });
+        </script>
+    </body>
+</html>
