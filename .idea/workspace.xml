@@ -1,7 +1,365 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="96551331-1eb6-49a7-a24c-ef6d1ca600cf" name="Default" comment="" />
+    <list default="true" id="96551331-1eb6-49a7-a24c-ef6d1ca600cf" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.vaseman/media/img/client/client-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.vaseman/media/img/client/client-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.vaseman/media/img/client/client-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.vaseman/theme/rs-plugin/assets/arrow_large_left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.vaseman/theme/rs-plugin/assets/arrow_large_right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.vaseman/theme/rs-plugin/assets/arrow_left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.vaseman/theme/rs-plugin/assets/arrow_left2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.vaseman/theme/rs-plugin/assets/arrow_right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.vaseman/theme/rs-plugin/assets/arrow_right2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.vaseman/theme/rs-plugin/assets/arrowleft.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.vaseman/theme/rs-plugin/assets/arrowright.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.vaseman/theme/rs-plugin/assets/arrows.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.vaseman/theme/rs-plugin/assets/black50.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.vaseman/theme/rs-plugin/assets/boxed_bgtile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.vaseman/theme/rs-plugin/assets/bullet.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.vaseman/theme/rs-plugin/assets/bullet_boxed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.vaseman/theme/rs-plugin/assets/bullets.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.vaseman/theme/rs-plugin/assets/bullets.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.vaseman/theme/rs-plugin/assets/bullets2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.vaseman/theme/rs-plugin/assets/coloredbg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.vaseman/theme/rs-plugin/assets/grain.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.vaseman/theme/rs-plugin/assets/gridtile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.vaseman/theme/rs-plugin/assets/gridtile_3x3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.vaseman/theme/rs-plugin/assets/gridtile_3x3_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.vaseman/theme/rs-plugin/assets/gridtile_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.vaseman/theme/rs-plugin/assets/large_left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.vaseman/theme/rs-plugin/assets/large_right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.vaseman/theme/rs-plugin/assets/loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.vaseman/theme/rs-plugin/assets/loader2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.vaseman/theme/rs-plugin/assets/navigdots.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.vaseman/theme/rs-plugin/assets/navigdots_bgtile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.vaseman/theme/rs-plugin/assets/shadow1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.vaseman/theme/rs-plugin/assets/shadow2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.vaseman/theme/rs-plugin/assets/shadow3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.vaseman/theme/rs-plugin/assets/small_arrows.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.vaseman/theme/rs-plugin/assets/small_left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.vaseman/theme/rs-plugin/assets/small_left_boxed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.vaseman/theme/rs-plugin/assets/small_right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.vaseman/theme/rs-plugin/assets/small_right_boxed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.vaseman/theme/rs-plugin/assets/timer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.vaseman/theme/rs-plugin/assets/timerdot.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.vaseman/theme/rs-plugin/assets/transparent.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.vaseman/theme/rs-plugin/assets/white50.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.vaseman/theme/rs-plugin/font/revicons.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.vaseman/theme/rs-plugin/font/revicons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.vaseman/theme/rs-plugin/font/revicons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.vaseman/theme/rs-plugin/images/decor_inside.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.vaseman/theme/rs-plugin/images/decor_inside_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.vaseman/theme/rs-plugin/images/decor_testimonial.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.vaseman/theme/rs-plugin/images/gradient/g30.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.vaseman/theme/rs-plugin/images/gradient/g40.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.vaseman/entries/demo/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.vaseman/entries/index.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.vaseman/layouts/home/about.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.vaseman/layouts/home/banner.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.vaseman/layouts/home/contact-2.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.vaseman/layouts/home/contact.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.vaseman/layouts/home/pricing.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.vaseman/layouts/home/service.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.vaseman/layouts/home/work.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.vaseman/media/css/main.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.vaseman/media/css/silicone.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.vaseman/src/Plugin/ConfigPlugin.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.vaseman/src/Plugin/works.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.vaseman/theme/rs-plugin/css/settings-ie8.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.vaseman/theme/rs-plugin/css/settings.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.vaseman/theme/rs-plugin/font/revicons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.vaseman/theme/rs-plugin/js/jquery.themepunch.enablelog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.vaseman/theme/rs-plugin/js/jquery.themepunch.revolution.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.vaseman/theme/rs-plugin/js/jquery.themepunch.revolution.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.vaseman/theme/rs-plugin/js/jquery.themepunch.tools.min.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/allstars.iml" afterPath="$PROJECT_DIR$/.idea/allstars.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/blog-list.html" afterPath="$PROJECT_DIR$/.vaseman/theme/blog-list.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/blog-post.html" afterPath="$PROJECT_DIR$/.vaseman/theme/blog-post.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/bootstrap/css/bootstrap-theme.css" afterPath="$PROJECT_DIR$/.vaseman/media/bootstrap/css/bootstrap-theme.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/bootstrap/css/bootstrap-theme.css.map" afterPath="$PROJECT_DIR$/.vaseman/media/bootstrap/css/bootstrap-theme.css.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/bootstrap/css/bootstrap-theme.min.css" afterPath="$PROJECT_DIR$/.vaseman/media/bootstrap/css/bootstrap-theme.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/bootstrap/css/bootstrap-theme.min.css.map" afterPath="$PROJECT_DIR$/.vaseman/media/bootstrap/css/bootstrap-theme.min.css.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/bootstrap/css/bootstrap.css" afterPath="$PROJECT_DIR$/.vaseman/media/bootstrap/css/bootstrap.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/bootstrap/css/bootstrap.css.map" afterPath="$PROJECT_DIR$/.vaseman/media/bootstrap/css/bootstrap.css.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/bootstrap/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/.vaseman/media/bootstrap/css/bootstrap.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/bootstrap/css/bootstrap.min.css.map" afterPath="$PROJECT_DIR$/.vaseman/media/bootstrap/css/bootstrap.min.css.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/bootstrap/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/.vaseman/media/bootstrap/fonts/glyphicons-halflings-regular.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/.vaseman/media/bootstrap/fonts/glyphicons-halflings-regular.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/.vaseman/media/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/bootstrap/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/.vaseman/media/bootstrap/fonts/glyphicons-halflings-regular.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/.vaseman/media/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/bootstrap/js/bootstrap.js" afterPath="$PROJECT_DIR$/.vaseman/media/bootstrap/js/bootstrap.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/bootstrap/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/.vaseman/media/bootstrap/js/bootstrap.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/bootstrap/js/npm.js" afterPath="$PROJECT_DIR$/.vaseman/media/bootstrap/js/npm.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/config.rb" afterPath="$PROJECT_DIR$/.vaseman/theme/config.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/css/YTPlayer.css" afterPath="$PROJECT_DIR$/.vaseman/media/css/YTPlayer.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/css/animate.css" afterPath="$PROJECT_DIR$/.vaseman/media/css/animate.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/css/flexslider.css" afterPath="$PROJECT_DIR$/.vaseman/media/css/flexslider.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/css/fullscreen-nav.css" afterPath="$PROJECT_DIR$/.vaseman/media/css/fullscreen-nav.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/css/owl.carousel.css" afterPath="$PROJECT_DIR$/.vaseman/media/css/owl.carousel.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/css/owl.theme.css" afterPath="$PROJECT_DIR$/.vaseman/media/css/owl.theme.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/css/style.css" afterPath="$PROJECT_DIR$/.vaseman/media/css/style.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/css/style.css.map" afterPath="$PROJECT_DIR$/.vaseman/media/css/style.css.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/demo-default.html" afterPath="$PROJECT_DIR$/.vaseman/theme/demo-default.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/demo-video-bg.html" afterPath="$PROJECT_DIR$/.vaseman/theme/demo-video-bg.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/font-awesome/css/font-awesome.css" afterPath="$PROJECT_DIR$/.vaseman/media/font-awesome/css/font-awesome.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/font-awesome/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/.vaseman/media/font-awesome/css/font-awesome.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/font-awesome/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/.vaseman/media/font-awesome/fonts/FontAwesome.otf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/font-awesome/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/.vaseman/media/font-awesome/fonts/fontawesome-webfont.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/font-awesome/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/.vaseman/media/font-awesome/fonts/fontawesome-webfont.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/.vaseman/media/font-awesome/fonts/fontawesome-webfont.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/font-awesome/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/.vaseman/media/font-awesome/fonts/fontawesome-webfont.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/font-awesome/fonts/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/.vaseman/media/font-awesome/fonts/fontawesome-webfont.woff2" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/fullscreen-nav.html" afterPath="$PROJECT_DIR$/.vaseman/theme/fullscreen-nav.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/fullscreen-parallax-bg-demo.html" afterPath="$PROJECT_DIR$/.vaseman/theme/fullscreen-parallax-bg-demo.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/img/bg-1.jpg" afterPath="$PROJECT_DIR$/.vaseman/media/img/bg-1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/img/bg-2.jpg" afterPath="$PROJECT_DIR$/.vaseman/media/img/bg-2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/img/bg-3.jpg" afterPath="$PROJECT_DIR$/.vaseman/media/img/bg-3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/img/blog-list1.jpg" afterPath="$PROJECT_DIR$/.vaseman/media/img/blog-list1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/img/blog-list2.jpg" afterPath="$PROJECT_DIR$/.vaseman/media/img/blog-list2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/img/blog-list3.jpg" afterPath="$PROJECT_DIR$/.vaseman/media/img/blog-list3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/img/dark-bg-1.jpg" afterPath="$PROJECT_DIR$/.vaseman/media/img/dark-bg-1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/img/dark-bg-2.jpg" afterPath="$PROJECT_DIR$/.vaseman/media/img/dark-bg-2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/img/dark-bg-3.jpg" afterPath="$PROJECT_DIR$/.vaseman/media/img/dark-bg-3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/img/dark-bg-4.jpg" afterPath="$PROJECT_DIR$/.vaseman/media/img/dark-bg-4.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/img/default.png" afterPath="$PROJECT_DIR$/.vaseman/media/img/default.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/img/masonry-1.jpg" afterPath="$PROJECT_DIR$/.vaseman/media/img/masonry-1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/img/nav-full.png" afterPath="$PROJECT_DIR$/.vaseman/media/img/nav-full.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/img/parallax.png" afterPath="$PROJECT_DIR$/.vaseman/media/img/parallax.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/img/pattern.png" afterPath="$PROJECT_DIR$/.vaseman/media/img/pattern.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/img/sec-img1.jpg" afterPath="$PROJECT_DIR$/.vaseman/media/img/sec-img1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/img/sec-img2.jpg" afterPath="$PROJECT_DIR$/.vaseman/media/img/sec-img2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/img/sec-img3.jpg" afterPath="$PROJECT_DIR$/.vaseman/media/img/sec-img3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/img/sec-img4.jpg" afterPath="$PROJECT_DIR$/.vaseman/media/img/sec-img4.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/img/sec-img5.jpg" afterPath="$PROJECT_DIR$/.vaseman/media/img/sec-img5.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/img/sec-img6.jpg" afterPath="$PROJECT_DIR$/.vaseman/media/img/sec-img6.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/img/sec-img7.jpg" afterPath="$PROJECT_DIR$/.vaseman/media/img/sec-img7.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/img/sec-img8.jpg" afterPath="$PROJECT_DIR$/.vaseman/media/img/sec-img8.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/img/soon.png" afterPath="$PROJECT_DIR$/.vaseman/media/img/soon.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/img/star-cover.jpg" afterPath="$PROJECT_DIR$/.vaseman/media/img/star-cover.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/img/t-1.jpg" afterPath="$PROJECT_DIR$/.vaseman/media/img/t-1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/img/t-2.jpg" afterPath="$PROJECT_DIR$/.vaseman/media/img/t-2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/img/t-3.jpg" afterPath="$PROJECT_DIR$/.vaseman/media/img/t-3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/img/team-1.jpg" afterPath="$PROJECT_DIR$/.vaseman/media/img/team-1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/img/team-2.jpg" afterPath="$PROJECT_DIR$/.vaseman/media/img/team-2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/img/team-3.jpg" afterPath="$PROJECT_DIR$/.vaseman/media/img/team-3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/img/trans-header.png" afterPath="$PROJECT_DIR$/.vaseman/media/img/trans-header.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/img/typing-cover.jpg" afterPath="$PROJECT_DIR$/.vaseman/media/img/typing-cover.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/img/very-soon.png" afterPath="$PROJECT_DIR$/.vaseman/media/img/very-soon.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/img/video-fall.jpg" afterPath="$PROJECT_DIR$/.vaseman/media/img/video-fall.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/img/video-slider.png" afterPath="$PROJECT_DIR$/.vaseman/media/img/video-slider.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/img/youtube-bg.png" afterPath="$PROJECT_DIR$/.vaseman/media/img/youtube-bg.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/index.html" afterPath="$PROJECT_DIR$/.vaseman/theme/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/js/bootstrap-hover-dropdown.min.js" afterPath="$PROJECT_DIR$/.vaseman/media/js/bootstrap-hover-dropdown.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/js/classie.js" afterPath="$PROJECT_DIR$/.vaseman/media/js/classie.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/js/contact_me.js" afterPath="$PROJECT_DIR$/.vaseman/media/js/contact_me.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/js/custom.js" afterPath="$PROJECT_DIR$/.vaseman/media/js/custom.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/js/easypiechart.js" afterPath="$PROJECT_DIR$/.vaseman/media/js/easypiechart.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/js/fullscreen-nav.js" afterPath="$PROJECT_DIR$/.vaseman/media/js/fullscreen-nav.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/js/isotope-custom.js" afterPath="$PROJECT_DIR$/.vaseman/media/js/isotope-custom.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/js/jqBootstrapValidation.js" afterPath="$PROJECT_DIR$/.vaseman/media/js/jqBootstrapValidation.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/js/jquery-migrate.min.js" afterPath="$PROJECT_DIR$/.vaseman/media/js/jquery-migrate.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/js/jquery.countdown.js" afterPath="$PROJECT_DIR$/.vaseman/media/js/jquery.countdown.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/js/jquery.counterup.min.js" afterPath="$PROJECT_DIR$/.vaseman/media/js/jquery.counterup.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/js/jquery.easing.1.3.min.js" afterPath="$PROJECT_DIR$/.vaseman/media/js/jquery.easing.1.3.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/js/jquery.flexslider-min.js" afterPath="$PROJECT_DIR$/.vaseman/media/js/jquery.flexslider-min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/js/jquery.imagesloaded.min.js" afterPath="$PROJECT_DIR$/.vaseman/media/js/jquery.imagesloaded.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/js/jquery.isotope.min.js" afterPath="$PROJECT_DIR$/.vaseman/media/js/jquery.isotope.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/js/jquery.mb.YTPlayer.min.js" afterPath="$PROJECT_DIR$/.vaseman/media/js/jquery.mb.YTPlayer.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/js/jquery.min.js" afterPath="$PROJECT_DIR$/.vaseman/media/js/jquery.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/js/jquery.mixitup.min.js" afterPath="$PROJECT_DIR$/.vaseman/media/js/jquery.mixitup.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/js/jquery.stellar.min.js" afterPath="$PROJECT_DIR$/.vaseman/media/js/jquery.stellar.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/js/jquery.sticky.js" afterPath="$PROJECT_DIR$/.vaseman/media/js/jquery.sticky.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/js/moderniz.min.js" afterPath="$PROJECT_DIR$/.vaseman/media/js/moderniz.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/js/modernizr.js" afterPath="$PROJECT_DIR$/.vaseman/media/js/modernizr.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/js/owl.carousel.min.js" afterPath="$PROJECT_DIR$/.vaseman/media/js/owl.carousel.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/js/pace.min.js" afterPath="$PROJECT_DIR$/.vaseman/media/js/pace.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/js/revolution-custom.js" afterPath="$PROJECT_DIR$/.vaseman/media/js/revolution-custom.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/js/waypoints.min.js" afterPath="$PROJECT_DIR$/.vaseman/media/js/waypoints.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/js/wow.min.js" afterPath="$PROJECT_DIR$/.vaseman/media/js/wow.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/mail/contact_me.php" afterPath="$PROJECT_DIR$/.vaseman/theme/mail/contact_me.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/mailchimp/MCAPI.class.php" afterPath="$PROJECT_DIR$/.vaseman/theme/mailchimp/MCAPI.class.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/mailchimp/config.inc.php" afterPath="$PROJECT_DIR$/.vaseman/theme/mailchimp/config.inc.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/mailchimp/index.html" afterPath="$PROJECT_DIR$/.vaseman/theme/mailchimp/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/mailchimp/process-subscribe.php" afterPath="$PROJECT_DIR$/.vaseman/theme/mailchimp/process-subscribe.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/portfolio-3.html" afterPath="$PROJECT_DIR$/.vaseman/theme/portfolio-3.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/portfolio-full.html" afterPath="$PROJECT_DIR$/.vaseman/theme/portfolio-full.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/portfolio-masonry.html" afterPath="$PROJECT_DIR$/.vaseman/theme/portfolio-masonry.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/rs-plugin/assets/arrow_large_left.png" afterPath="$PROJECT_DIR$/.vaseman/media/rs-plugin/assets/arrow_large_left.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/rs-plugin/assets/arrow_large_right.png" afterPath="$PROJECT_DIR$/.vaseman/media/rs-plugin/assets/arrow_large_right.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/rs-plugin/assets/arrow_left.png" afterPath="$PROJECT_DIR$/.vaseman/media/rs-plugin/assets/arrow_left.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/rs-plugin/assets/arrow_left2.png" afterPath="$PROJECT_DIR$/.vaseman/media/rs-plugin/assets/arrow_left2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/rs-plugin/assets/arrow_right.png" afterPath="$PROJECT_DIR$/.vaseman/media/rs-plugin/assets/arrow_right.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/rs-plugin/assets/arrow_right2.png" afterPath="$PROJECT_DIR$/.vaseman/media/rs-plugin/assets/arrow_right2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/rs-plugin/assets/arrowleft.png" afterPath="$PROJECT_DIR$/.vaseman/media/rs-plugin/assets/arrowleft.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/rs-plugin/assets/arrowright.png" afterPath="$PROJECT_DIR$/.vaseman/media/rs-plugin/assets/arrowright.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/rs-plugin/assets/arrows.psd" afterPath="$PROJECT_DIR$/.vaseman/media/rs-plugin/assets/arrows.psd" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/rs-plugin/assets/black50.png" afterPath="$PROJECT_DIR$/.vaseman/media/rs-plugin/assets/black50.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/rs-plugin/assets/boxed_bgtile.png" afterPath="$PROJECT_DIR$/.vaseman/media/rs-plugin/assets/boxed_bgtile.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/rs-plugin/assets/bullet.png" afterPath="$PROJECT_DIR$/.vaseman/media/rs-plugin/assets/bullet.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/rs-plugin/assets/bullet_boxed.png" afterPath="$PROJECT_DIR$/.vaseman/media/rs-plugin/assets/bullet_boxed.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/rs-plugin/assets/bullets.png" afterPath="$PROJECT_DIR$/.vaseman/media/rs-plugin/assets/bullets.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/rs-plugin/assets/bullets.psd" afterPath="$PROJECT_DIR$/.vaseman/media/rs-plugin/assets/bullets.psd" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/rs-plugin/assets/bullets2.png" afterPath="$PROJECT_DIR$/.vaseman/media/rs-plugin/assets/bullets2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/rs-plugin/assets/coloredbg.png" afterPath="$PROJECT_DIR$/.vaseman/media/rs-plugin/assets/coloredbg.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/rs-plugin/assets/grain.png" afterPath="$PROJECT_DIR$/.vaseman/media/rs-plugin/assets/grain.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/rs-plugin/assets/gridtile.png" afterPath="$PROJECT_DIR$/.vaseman/media/rs-plugin/assets/gridtile.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/rs-plugin/assets/gridtile_3x3.png" afterPath="$PROJECT_DIR$/.vaseman/media/rs-plugin/assets/gridtile_3x3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/rs-plugin/assets/gridtile_3x3_white.png" afterPath="$PROJECT_DIR$/.vaseman/media/rs-plugin/assets/gridtile_3x3_white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/rs-plugin/assets/gridtile_white.png" afterPath="$PROJECT_DIR$/.vaseman/media/rs-plugin/assets/gridtile_white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/rs-plugin/assets/large_left.png" afterPath="$PROJECT_DIR$/.vaseman/media/rs-plugin/assets/large_left.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/rs-plugin/assets/large_right.png" afterPath="$PROJECT_DIR$/.vaseman/media/rs-plugin/assets/large_right.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/rs-plugin/assets/loader.gif" afterPath="$PROJECT_DIR$/.vaseman/media/rs-plugin/assets/loader.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/rs-plugin/assets/loader2.gif" afterPath="$PROJECT_DIR$/.vaseman/media/rs-plugin/assets/loader2.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/rs-plugin/assets/navigdots.png" afterPath="$PROJECT_DIR$/.vaseman/media/rs-plugin/assets/navigdots.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/rs-plugin/assets/navigdots_bgtile.png" afterPath="$PROJECT_DIR$/.vaseman/media/rs-plugin/assets/navigdots_bgtile.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/rs-plugin/assets/shadow1.png" afterPath="$PROJECT_DIR$/.vaseman/media/rs-plugin/assets/shadow1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/rs-plugin/assets/shadow2.png" afterPath="$PROJECT_DIR$/.vaseman/media/rs-plugin/assets/shadow2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/rs-plugin/assets/shadow3.png" afterPath="$PROJECT_DIR$/.vaseman/media/rs-plugin/assets/shadow3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/rs-plugin/assets/small_arrows.psd" afterPath="$PROJECT_DIR$/.vaseman/media/rs-plugin/assets/small_arrows.psd" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/rs-plugin/assets/small_left.png" afterPath="$PROJECT_DIR$/.vaseman/media/rs-plugin/assets/small_left.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/rs-plugin/assets/small_left_boxed.png" afterPath="$PROJECT_DIR$/.vaseman/media/rs-plugin/assets/small_left_boxed.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/rs-plugin/assets/small_right.png" afterPath="$PROJECT_DIR$/.vaseman/media/rs-plugin/assets/small_right.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/rs-plugin/assets/small_right_boxed.png" afterPath="$PROJECT_DIR$/.vaseman/media/rs-plugin/assets/small_right_boxed.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/rs-plugin/assets/timer.png" afterPath="$PROJECT_DIR$/.vaseman/media/rs-plugin/assets/timer.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/rs-plugin/assets/timerdot.png" afterPath="$PROJECT_DIR$/.vaseman/media/rs-plugin/assets/timerdot.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/rs-plugin/assets/transparent.jpg" afterPath="$PROJECT_DIR$/.vaseman/media/rs-plugin/assets/transparent.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/rs-plugin/assets/white50.png" afterPath="$PROJECT_DIR$/.vaseman/media/rs-plugin/assets/white50.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/rs-plugin/css/settings-ie8.css" afterPath="$PROJECT_DIR$/.vaseman/media/rs-plugin/css/settings-ie8.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/rs-plugin/css/settings.css" afterPath="$PROJECT_DIR$/.vaseman/media/rs-plugin/css/settings.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/rs-plugin/font/revicons.eot" afterPath="$PROJECT_DIR$/.vaseman/media/rs-plugin/font/revicons.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/rs-plugin/font/revicons.svg" afterPath="$PROJECT_DIR$/.vaseman/media/rs-plugin/font/revicons.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/rs-plugin/font/revicons.ttf" afterPath="$PROJECT_DIR$/.vaseman/media/rs-plugin/font/revicons.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/rs-plugin/font/revicons.woff" afterPath="$PROJECT_DIR$/.vaseman/media/rs-plugin/font/revicons.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/rs-plugin/images/decor_inside.png" afterPath="$PROJECT_DIR$/.vaseman/media/rs-plugin/images/decor_inside.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/rs-plugin/images/decor_inside_white.png" afterPath="$PROJECT_DIR$/.vaseman/media/rs-plugin/images/decor_inside_white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/rs-plugin/images/decor_testimonial.png" afterPath="$PROJECT_DIR$/.vaseman/media/rs-plugin/images/decor_testimonial.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/rs-plugin/images/gradient/g30.png" afterPath="$PROJECT_DIR$/.vaseman/media/rs-plugin/images/gradient/g30.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/rs-plugin/images/gradient/g40.png" afterPath="$PROJECT_DIR$/.vaseman/media/rs-plugin/images/gradient/g40.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/rs-plugin/js/jquery.themepunch.enablelog.js" afterPath="$PROJECT_DIR$/.vaseman/media/rs-plugin/js/jquery.themepunch.enablelog.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/rs-plugin/js/jquery.themepunch.revolution.js" afterPath="$PROJECT_DIR$/.vaseman/media/rs-plugin/js/jquery.themepunch.revolution.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/rs-plugin/js/jquery.themepunch.revolution.min.js" afterPath="$PROJECT_DIR$/.vaseman/media/rs-plugin/js/jquery.themepunch.revolution.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/rs-plugin/js/jquery.themepunch.tools.min.js" afterPath="$PROJECT_DIR$/.vaseman/media/rs-plugin/js/jquery.themepunch.tools.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/scss/_base.scss" afterPath="$PROJECT_DIR$/.vaseman/theme/scss/_base.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/scss/_blog.scss" afterPath="$PROJECT_DIR$/.vaseman/theme/scss/_blog.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/scss/_coming-soon.scss" afterPath="$PROJECT_DIR$/.vaseman/theme/scss/_coming-soon.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/scss/_fullscreen-nav.scss" afterPath="$PROJECT_DIR$/.vaseman/theme/scss/_fullscreen-nav.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/scss/_mixins.scss" afterPath="$PROJECT_DIR$/.vaseman/theme/scss/_mixins.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/scss/_navigation.scss" afterPath="$PROJECT_DIR$/.vaseman/theme/scss/_navigation.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/scss/_pace-preloader.scss" afterPath="$PROJECT_DIR$/.vaseman/theme/scss/_pace-preloader.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/scss/_sidebar.scss" afterPath="$PROJECT_DIR$/.vaseman/theme/scss/_sidebar.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/scss/_variables.scss" afterPath="$PROJECT_DIR$/.vaseman/theme/scss/_variables.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/scss/style.scss" afterPath="$PROJECT_DIR$/.vaseman/theme/scss/style.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/single-work.html" afterPath="$PROJECT_DIR$/.vaseman/theme/single-work.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/soon.html" afterPath="$PROJECT_DIR$/.vaseman/theme/soon.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/transparent-header-demo.html" afterPath="$PROJECT_DIR$/.vaseman/theme/transparent-header-demo.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/typography.html" afterPath="$PROJECT_DIR$/.vaseman/theme/typography.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.theme/video-slider.html" afterPath="$PROJECT_DIR$/.vaseman/theme/video-slider.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap/css/bootstrap-theme.css" afterPath="$PROJECT_DIR$/.vaseman/theme/bootstrap/css/bootstrap-theme.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap/css/bootstrap-theme.css.map" afterPath="$PROJECT_DIR$/.vaseman/theme/bootstrap/css/bootstrap-theme.css.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap/css/bootstrap-theme.min.css" afterPath="$PROJECT_DIR$/.vaseman/theme/bootstrap/css/bootstrap-theme.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap/css/bootstrap-theme.min.css.map" afterPath="$PROJECT_DIR$/.vaseman/theme/bootstrap/css/bootstrap-theme.min.css.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap/css/bootstrap.css" afterPath="$PROJECT_DIR$/.vaseman/theme/bootstrap/css/bootstrap.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap/css/bootstrap.css.map" afterPath="$PROJECT_DIR$/.vaseman/theme/bootstrap/css/bootstrap.css.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/.vaseman/theme/bootstrap/css/bootstrap.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap/css/bootstrap.min.css.map" afterPath="$PROJECT_DIR$/.vaseman/theme/bootstrap/css/bootstrap.min.css.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/.vaseman/theme/bootstrap/fonts/glyphicons-halflings-regular.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/.vaseman/theme/bootstrap/fonts/glyphicons-halflings-regular.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/.vaseman/theme/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/.vaseman/theme/bootstrap/fonts/glyphicons-halflings-regular.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/.vaseman/theme/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap/js/bootstrap.js" afterPath="$PROJECT_DIR$/.vaseman/theme/bootstrap/js/bootstrap.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/.vaseman/theme/bootstrap/js/bootstrap.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap/js/npm.js" afterPath="$PROJECT_DIR$/.vaseman/theme/bootstrap/js/npm.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/YTPlayer.css" afterPath="$PROJECT_DIR$/.vaseman/theme/css/YTPlayer.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/animate.css" afterPath="$PROJECT_DIR$/.vaseman/theme/css/animate.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/flexslider.css" afterPath="$PROJECT_DIR$/.vaseman/theme/css/flexslider.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/fullscreen-nav.css" afterPath="$PROJECT_DIR$/.vaseman/theme/css/fullscreen-nav.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/owl.carousel.css" afterPath="$PROJECT_DIR$/.vaseman/theme/css/owl.carousel.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/owl.theme.css" afterPath="$PROJECT_DIR$/.vaseman/theme/css/owl.theme.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/.vaseman/theme/css/style.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css/style.css.map" afterPath="$PROJECT_DIR$/.vaseman/theme/css/style.css.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome/css/font-awesome.css" afterPath="$PROJECT_DIR$/.vaseman/theme/font-awesome/css/font-awesome.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/.vaseman/theme/font-awesome/css/font-awesome.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/.vaseman/theme/font-awesome/fonts/FontAwesome.otf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/.vaseman/theme/font-awesome/fonts/fontawesome-webfont.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/.vaseman/theme/font-awesome/fonts/fontawesome-webfont.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/.vaseman/theme/font-awesome/fonts/fontawesome-webfont.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/.vaseman/theme/font-awesome/fonts/fontawesome-webfont.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/font-awesome/fonts/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/.vaseman/theme/font-awesome/fonts/fontawesome-webfont.woff2" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/allstars-logo-alpha.png" afterPath="$PROJECT_DIR$/.vaseman/media/img/allstars-logo-alpha.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/bg-1.jpg" afterPath="$PROJECT_DIR$/.vaseman/theme/img/bg-1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/bg-2.jpg" afterPath="$PROJECT_DIR$/.vaseman/theme/img/bg-2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/bg-3.jpg" afterPath="$PROJECT_DIR$/.vaseman/theme/img/bg-3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/blog-list1.jpg" afterPath="$PROJECT_DIR$/.vaseman/theme/img/blog-list1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/blog-list2.jpg" afterPath="$PROJECT_DIR$/.vaseman/theme/img/blog-list2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/blog-list3.jpg" afterPath="$PROJECT_DIR$/.vaseman/theme/img/blog-list3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/dark-bg-1.jpg" afterPath="$PROJECT_DIR$/.vaseman/theme/img/dark-bg-1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/dark-bg-2.jpg" afterPath="$PROJECT_DIR$/.vaseman/theme/img/dark-bg-2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/dark-bg-3.jpg" afterPath="$PROJECT_DIR$/.vaseman/theme/img/dark-bg-3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/dark-bg-4.jpg" afterPath="$PROJECT_DIR$/.vaseman/theme/img/dark-bg-4.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/default.png" afterPath="$PROJECT_DIR$/.vaseman/theme/img/default.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/favicon.png" afterPath="$PROJECT_DIR$/.vaseman/media/img/favicon.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/masonry-1.jpg" afterPath="$PROJECT_DIR$/.vaseman/theme/img/masonry-1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/nav-full.png" afterPath="$PROJECT_DIR$/.vaseman/theme/img/nav-full.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/parallax.png" afterPath="$PROJECT_DIR$/.vaseman/theme/img/parallax.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/pattern.png" afterPath="$PROJECT_DIR$/.vaseman/theme/img/pattern.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/sec-img1.jpg" afterPath="$PROJECT_DIR$/.vaseman/theme/img/sec-img1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/sec-img2.jpg" afterPath="$PROJECT_DIR$/.vaseman/theme/img/sec-img2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/sec-img3.jpg" afterPath="$PROJECT_DIR$/.vaseman/theme/img/sec-img3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/sec-img4.jpg" afterPath="$PROJECT_DIR$/.vaseman/theme/img/sec-img4.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/sec-img5.jpg" afterPath="$PROJECT_DIR$/.vaseman/theme/img/sec-img5.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/sec-img6.jpg" afterPath="$PROJECT_DIR$/.vaseman/theme/img/sec-img6.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/sec-img7.jpg" afterPath="$PROJECT_DIR$/.vaseman/theme/img/sec-img7.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/sec-img8.jpg" afterPath="$PROJECT_DIR$/.vaseman/theme/img/sec-img8.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/soon.png" afterPath="$PROJECT_DIR$/.vaseman/theme/img/soon.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/star-cover.jpg" afterPath="$PROJECT_DIR$/.vaseman/theme/img/star-cover.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/t-1.jpg" afterPath="$PROJECT_DIR$/.vaseman/theme/img/t-1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/t-2.jpg" afterPath="$PROJECT_DIR$/.vaseman/theme/img/t-2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/t-3.jpg" afterPath="$PROJECT_DIR$/.vaseman/theme/img/t-3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/team-1.jpg" afterPath="$PROJECT_DIR$/.vaseman/theme/img/team-1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/team-2.jpg" afterPath="$PROJECT_DIR$/.vaseman/theme/img/team-2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/team-3.jpg" afterPath="$PROJECT_DIR$/.vaseman/theme/img/team-3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/trans-header.png" afterPath="$PROJECT_DIR$/.vaseman/theme/img/trans-header.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/typing-cover.jpg" afterPath="$PROJECT_DIR$/.vaseman/theme/img/typing-cover.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/very-soon.png" afterPath="$PROJECT_DIR$/.vaseman/theme/img/very-soon.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/video-fall.jpg" afterPath="$PROJECT_DIR$/.vaseman/theme/img/video-fall.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/video-slider.png" afterPath="$PROJECT_DIR$/.vaseman/theme/img/video-slider.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/youtube-bg.png" afterPath="$PROJECT_DIR$/.vaseman/theme/img/youtube-bg.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/bootstrap-hover-dropdown.min.js" afterPath="$PROJECT_DIR$/.vaseman/theme/js/bootstrap-hover-dropdown.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/classie.js" afterPath="$PROJECT_DIR$/.vaseman/theme/js/classie.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/contact_me.js" afterPath="$PROJECT_DIR$/.vaseman/theme/js/contact_me.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/custom.js" afterPath="$PROJECT_DIR$/.vaseman/theme/js/custom.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/easypiechart.js" afterPath="$PROJECT_DIR$/.vaseman/theme/js/easypiechart.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/fullscreen-nav.js" afterPath="$PROJECT_DIR$/.vaseman/theme/js/fullscreen-nav.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/isotope-custom.js" afterPath="$PROJECT_DIR$/.vaseman/theme/js/isotope-custom.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/jqBootstrapValidation.js" afterPath="$PROJECT_DIR$/.vaseman/theme/js/jqBootstrapValidation.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/jquery-migrate.min.js" afterPath="$PROJECT_DIR$/.vaseman/theme/js/jquery-migrate.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/jquery.countdown.js" afterPath="$PROJECT_DIR$/.vaseman/theme/js/jquery.countdown.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/jquery.counterup.min.js" afterPath="$PROJECT_DIR$/.vaseman/theme/js/jquery.counterup.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/jquery.easing.1.3.min.js" afterPath="$PROJECT_DIR$/.vaseman/theme/js/jquery.easing.1.3.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/jquery.flexslider-min.js" afterPath="$PROJECT_DIR$/.vaseman/theme/js/jquery.flexslider-min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/jquery.imagesloaded.min.js" afterPath="$PROJECT_DIR$/.vaseman/theme/js/jquery.imagesloaded.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/jquery.isotope.min.js" afterPath="$PROJECT_DIR$/.vaseman/theme/js/jquery.isotope.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/jquery.mb.YTPlayer.min.js" afterPath="$PROJECT_DIR$/.vaseman/theme/js/jquery.mb.YTPlayer.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/jquery.min.js" afterPath="$PROJECT_DIR$/.vaseman/theme/js/jquery.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/jquery.mixitup.min.js" afterPath="$PROJECT_DIR$/.vaseman/theme/js/jquery.mixitup.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/jquery.stellar.min.js" afterPath="$PROJECT_DIR$/.vaseman/theme/js/jquery.stellar.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/jquery.sticky.js" afterPath="$PROJECT_DIR$/.vaseman/theme/js/jquery.sticky.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/moderniz.min.js" afterPath="$PROJECT_DIR$/.vaseman/theme/js/moderniz.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/modernizr.js" afterPath="$PROJECT_DIR$/.vaseman/theme/js/modernizr.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/owl.carousel.min.js" afterPath="$PROJECT_DIR$/.vaseman/theme/js/owl.carousel.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/pace.min.js" afterPath="$PROJECT_DIR$/.vaseman/theme/js/pace.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/revolution-custom.js" afterPath="$PROJECT_DIR$/.vaseman/theme/js/revolution-custom.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/waypoints.min.js" afterPath="$PROJECT_DIR$/.vaseman/theme/js/waypoints.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/js/wow.min.js" afterPath="$PROJECT_DIR$/.vaseman/theme/js/wow.min.js" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,21 +372,86 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="55" lean-forward="false" selection-start-line="5" selection-start-column="55" selection-end-line="5" selection-end-column="55" />
+            <state relative-caret-position="-869">
+              <caret line="53" column="53" lean-forward="false" selection-start-line="53" selection-start-column="53" selection-end-line="53" selection-end-column="53" />
               <folding>
-                <element signature="e#4182#4188#0" expanded="true" />
+                <marker date="1484842195339" expanded="true" signature="52035:52917" ph="..." />
+                <marker date="1484842195339" expanded="true" signature="52075:52910" ph="..." />
+                <marker date="1484842195339" expanded="true" signature="52101:52899" ph="..." />
+                <marker date="1484842195339" expanded="true" signature="52136:52356" ph="..." />
+                <marker date="1484842195339" expanded="true" signature="52220:52337" ph="..." />
+                <marker date="1484842195339" expanded="true" signature="52391:52611" ph="..." />
+                <marker date="1484842195339" expanded="true" signature="52475:52592" ph="..." />
+                <marker date="1484842195339" expanded="true" signature="52646:52884" ph="..." />
+                <marker date="1484842195339" expanded="true" signature="52730:52865" ph="..." />
+                <marker date="1484842195339" expanded="true" signature="52984:53565" ph="..." />
+                <marker date="1484842195339" expanded="true" signature="53012:53554" ph="..." />
+                <marker date="1484842195339" expanded="true" signature="53038:53543" ph="..." />
+                <marker date="1484842195339" expanded="true" signature="53092:53185" ph="..." />
+                <marker date="1484842195339" expanded="false" signature="53116:53122" ph="©" />
+                <marker date="1484842195339" expanded="true" signature="53240:53528" ph="..." />
+                <marker date="1484842195339" expanded="true" signature="53281:53509" ph="..." />
+                <marker date="1484842195339" expanded="true" signature="55883:56665" ph="..." />
+                <marker date="1484842195339" expanded="true" signature="55947:56592" ph="{...}" />
+                <marker date="1484842195339" expanded="true" signature="56030:56157" ph="{&quot;center&quot;: myLatlng...}" />
+                <marker date="1484842195339" expanded="true" signature="56355:56386" ph="{&quot;content&quot;: contentString...}" />
+                <marker date="1484842195339" expanded="true" signature="56424:56484" ph="{&quot;position&quot;: myLatlng...}" />
+                <marker date="1484842195339" expanded="true" signature="56549:56587" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="npm.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bootstrap/js/npm.js">
+      <file leaf-file-name="html.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.vaseman/layouts/_global/html.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-323">
+              <caret line="4" column="34" lean-forward="false" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+              <folding>
+                <element signature="n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConfigPlugin.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.vaseman/src/Plugin/ConfigPlugin.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="32" column="34" lean-forward="false" selection-start-line="32" selection-start-column="34" selection-end-line="32" selection-end-column="34" />
+              <folding>
+                <element signature="e#165#193#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.vaseman/config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="35" lean-forward="false" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.less" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.vaseman/media/css/main.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="56" column="28" lean-forward="false" selection-start-line="56" selection-start-column="28" selection-end-line="56" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jquery.themepunch.enablelog.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.vaseman/media/rs-plugin/js/jquery.themepunch.enablelog.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -37,27 +460,311 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="arrow_left.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.vaseman/media/rs-plugin/assets/arrow_left.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.vaseman/entries/index.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="301">
+              <caret line="16" column="24" lean-forward="false" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+              <folding>
+                <element signature="e#233#267#0#HTML" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contact-2.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.vaseman/layouts/home/contact-2.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="453">
+              <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contact.blade.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.vaseman/layouts/home/contact.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="39" column="107" lean-forward="false" selection-start-line="39" selection-start-column="107" selection-end-line="39" selection-end-column="107" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contact_me.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.vaseman/media/js/contact_me.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="543">
+              <caret line="49" column="41" lean-forward="false" selection-start-line="49" selection-start-column="41" selection-end-line="49" selection-end-column="41" />
+              <folding>
+                <marker date="1484842094426" expanded="true" signature="1515:1522" ph="×" />
+                <marker date="1484842094426" expanded="true" signature="2235:2242" ph="×" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pricing.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.vaseman/layouts/home/pricing.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="108" column="10" lean-forward="false" selection-start-line="108" selection-start-column="10" selection-end-line="108" selection-end-column="10" />
+              <folding>
+                <element signature="n#div#0;n#div#1;n#div#0;n#section#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#3;n#div#0;n#div#1;n#div#0;n#section#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#small#0;n#h2#0;n#div#0;n#div#0;n#div#3;n#div#0;n#div#1;n#div#0;n#section#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#section#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="works.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.vaseman/src/Plugin/works.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="39" column="20" lean-forward="false" selection-start-line="39" selection-start-column="20" selection-end-line="39" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="service.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.vaseman/layouts/home/service.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-362">
+              <caret line="94" column="56" lean-forward="false" selection-start-line="94" selection-start-column="56" selection-end-line="94" selection-end-column="56" />
+              <folding>
+                <element signature="n#style#0;n#div#1;n#section#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.vaseman/layouts/home/about.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="158" column="45" lean-forward="false" selection-start-line="158" selection-start-column="45" selection-end-line="158" selection-end-column="45" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#1;n#div#0;n#section#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#2;n#div#1;n#div#0;n#section#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#section#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="custom.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.vaseman/media/js/custom.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="72" column="18" lean-forward="false" selection-start-line="72" selection-start-column="10" selection-end-line="72" selection-end-column="18" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="work.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.vaseman/layouts/home/work.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="17" column="72" lean-forward="false" selection-start-line="17" selection-start-column="72" selection-end-line="17" selection-end-column="72" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="banner.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.vaseman/layouts/home/banner.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="181" column="0" lean-forward="false" selection-start-line="181" selection-start-column="0" selection-end-line="181" selection-end-column="0" />
+              <folding>
+                <element signature="n#div#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.vaseman/media/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="1617" column="18" lean-forward="false" selection-start-line="1617" selection-start-column="14" selection-end-line="1617" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="favicon.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.vaseman/media/img/favicon.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Blade" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>btn-</find>
+      <find>scrollto</find>
+      <find>photography</find>
+      <find>src=&quot;js/</find>
+      <find>it seems that my mail server is not responding</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>src=&quot;{{ $uri['media'] }}js/</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\www\allstars\.vaseman</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/demo/portfolio-3.html" />
+        <option value="$PROJECT_DIR$/demo/index.html" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/.vaseman/layouts/_global/bladehtml.blade.php" />
+        <option value="$PROJECT_DIR$/.vaseman/layouts/_global/html.blade.php" />
+        <option value="$PROJECT_DIR$/.vaseman/config.yml" />
+        <option value="$PROJECT_DIR$/.vaseman/media/css/main.css" />
+        <option value="$PROJECT_DIR$/.vaseman/media/css/style.css" />
+        <option value="$PROJECT_DIR$/.vaseman/layouts/home/banner.blade.php" />
+        <option value="$PROJECT_DIR$/.vaseman/layouts/home/contact-2.blade.php" />
+        <option value="$PROJECT_DIR$/.vaseman/entries/index.blade.php" />
+        <option value="$PROJECT_DIR$/.vaseman/layouts/home/about.blade.php" />
+        <option value="$PROJECT_DIR$/.vaseman/media/css/main.less" />
+        <option value="$PROJECT_DIR$/.vaseman/layouts/home/service.blade.php" />
+        <option value="$PROJECT_DIR$/.vaseman/layouts/home/pricing.blade.php" />
+        <option value="$PROJECT_DIR$/.vaseman/src/Plugin/works.yml" />
+        <option value="$PROJECT_DIR$/.vaseman/layouts/home/work.blade.php" />
+        <option value="$PROJECT_DIR$/.vaseman/src/Plugin/ConfigPlugin.php" />
+        <option value="$PROJECT_DIR$/.vaseman/media/js/contact_me.js" />
+        <option value="$PROJECT_DIR$/.vaseman/layouts/home/contact.blade.php" />
       </list>
     </option>
   </component>
+  <component name="JsBowerSettings">
+    <exe-path>$USER_HOME$/AppData/Roaming/npm/bower.cmd</exe-path>
+    <config-path />
+  </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+  </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP Ampps" />
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP Ampps">
+    <include_path>
+      <path value="D:\www\vaseman" />
+    </include_path>
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="95" />
-    <option name="y" value="71" />
-    <option name="width" value="1691" />
-    <option name="height" value="938" />
+    <option name="x" value="37" />
+    <option name="y" value="30" />
+    <option name="width" value="1855" />
+    <option name="height" value="984" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Code SmellPHP</id>
+          </State>
+          <State>
+            <id>Code StylePHP</id>
+          </State>
+          <State>
+            <id>Code quality toolsCSS</id>
+          </State>
+          <State>
+            <id>Control FlowPHP</id>
+          </State>
+          <State>
+            <id>DocBlocksJoomla!</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>GeneralPHP</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Joomla!</id>
+          </State>
+          <State>
+            <id>Node.jsJavaScript</id>
+          </State>
+          <State>
+            <id>PHP</id>
+          </State>
+          <State>
+            <id>PHPDocPHP</id>
+          </State>
+          <State>
+            <id>Probable bugsPHP</id>
+          </State>
+          <State>
+            <id>Type compatibilityPHP</id>
+          </State>
+          <State>
+            <id>UndefinedPHP</id>
+          </State>
+          <State>
+            <id>UnusedPHP</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PhpUsageOfSilenceOperatorInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -82,7 +789,129 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.jetbrains.php.config.library.PhpExternalLibrariesNodePatcher$PatchedExternalLibrariesNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
               <option name="myItemId" value="allstars" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="allstars" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="allstars" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="allstars" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".vaseman" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="allstars" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="allstars" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".vaseman" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="allstars" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="allstars" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".vaseman" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Plugin" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="allstars" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="allstars" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".vaseman" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layouts" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="home" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="allstars" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="allstars" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".vaseman" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layouts" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="allstars" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="allstars" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".vaseman" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="entries" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -93,21 +922,28 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.stylesheets.stylelint" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../vaseman" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\www\allstars\.vaseman\entries" />
+      <recent name="D:\www\allstars\.vaseman\media" />
+      <recent name="D:\www\allstars\.vaseman" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\www\allstars\.vaseman\media\img\client" />
+      <recent name="D:\www\allstars\.vaseman\media" />
+      <recent name="D:\www\allstars\css" />
+      <recent name="D:\www\allstars\demo" />
       <recent name="D:\www\allstars\img" />
-      <recent name="D:\www\allstars" />
-      <recent name="D:\www\allstars\.theme" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="PHP Script.Vaseman">
     <configuration default="true" type="BashConfigurationType" factoryName="Bash">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="INTERPRETER_PATH" value="" />
@@ -147,6 +983,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -169,9 +1011,20 @@
       <recursive>false</recursive>
       <method />
     </configuration>
+    <configuration default="false" name="Vaseman" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/../vaseman/bin/vaseman" scriptParameters="up">
+      <CommandLine workingDirectory="$PROJECT_DIR$" />
+      <option name="workingDirectory" value="D:\www\allstars" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="PHP Script.Vaseman" />
+    </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -180,37 +1033,40 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1482293549441</updated>
-      <workItem from="1482293551067" duration="1166000" />
+      <workItem from="1482293551067" duration="2445000" />
+      <workItem from="1483176603060" duration="2922000" />
+      <workItem from="1483236744046" duration="127000" />
+      <workItem from="1484739209134" duration="22462000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1166000" />
+    <option name="totallyTimeSpent" value="27956000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="95" y="71" width="1691" height="938" extended-state="0" />
+    <frame x="37" y="30" width="1855" height="984" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="GfmBrowser" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17535254" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14373259" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32880098" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32880098" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.32880098" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14960147" sideWeight="0.48084053" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3275649" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32806805" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32880098" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37181044" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="355" y="181" width="1367" height="759" />
+      <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14930362" sideWeight="0.48084053" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32689834" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39925835" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.46106303" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="355" y="181" width="1367" height="759" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.116504855" sideWeight="0.51915944" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
       <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32880098" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32880098" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39925835" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -224,7 +1080,45 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/bootstrap/js/npm.js">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="40" lean-forward="false" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.vaseman/entries/demo/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#a#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#a#0;n#div#2;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.vaseman/media/css/silicone.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.vaseman/theme/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.vaseman/media/bootstrap/js/npm.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -234,11 +1128,358 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="55" lean-forward="false" selection-start-line="5" selection-start-column="55" selection-end-line="5" selection-end-column="55" />
+        <state relative-caret-position="266">
+          <caret line="14" column="40" lean-forward="false" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.vaseman/entries/demo/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="32" column="79" lean-forward="false" selection-start-line="32" selection-start-column="79" selection-end-line="32" selection-end-column="79" />
           <folding>
-            <element signature="e#4182#4188#0" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#a#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#a#0;n#div#2;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.vaseman/media/css/silicone.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.vaseman/theme/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.vaseman/media/bootstrap/js/npm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.vaseman/media/bootstrap/js/npm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.vaseman/media/bootstrap/js/npm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.vaseman/theme/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.vaseman/media/css/silicone.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.vaseman/theme/transparent-header-demo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="27" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1207" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.vaseman/layouts/_global/html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.vaseman/media/rs-plugin/assets/boxed_bgtile.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.vaseman/media/rs-plugin/assets/arrow_right2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/entries/demo/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-171">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.vaseman/entries/demo/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-38">
+          <caret line="47" column="48" lean-forward="false" selection-start-line="47" selection-start-column="48" selection-end-line="47" selection-end-column="48" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#a#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#a#0;n#div#2;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.vaseman/media/img/favicon.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.vaseman/media/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="20" column="17" lean-forward="false" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-869">
+          <caret line="53" column="53" lean-forward="false" selection-start-line="53" selection-start-column="53" selection-end-line="53" selection-end-column="53" />
+          <folding>
+            <marker date="1484842195339" expanded="true" signature="52035:52917" ph="..." />
+            <marker date="1484842195339" expanded="true" signature="52075:52910" ph="..." />
+            <marker date="1484842195339" expanded="true" signature="52101:52899" ph="..." />
+            <marker date="1484842195339" expanded="true" signature="52136:52356" ph="..." />
+            <marker date="1484842195339" expanded="true" signature="52220:52337" ph="..." />
+            <marker date="1484842195339" expanded="true" signature="52391:52611" ph="..." />
+            <marker date="1484842195339" expanded="true" signature="52475:52592" ph="..." />
+            <marker date="1484842195339" expanded="true" signature="52646:52884" ph="..." />
+            <marker date="1484842195339" expanded="true" signature="52730:52865" ph="..." />
+            <marker date="1484842195339" expanded="true" signature="52984:53565" ph="..." />
+            <marker date="1484842195339" expanded="true" signature="53012:53554" ph="..." />
+            <marker date="1484842195339" expanded="true" signature="53038:53543" ph="..." />
+            <marker date="1484842195339" expanded="true" signature="53092:53185" ph="..." />
+            <marker date="1484842195339" expanded="false" signature="53116:53122" ph="©" />
+            <marker date="1484842195339" expanded="true" signature="53240:53528" ph="..." />
+            <marker date="1484842195339" expanded="true" signature="53281:53509" ph="..." />
+            <marker date="1484842195339" expanded="true" signature="55883:56665" ph="..." />
+            <marker date="1484842195339" expanded="true" signature="55947:56592" ph="{...}" />
+            <marker date="1484842195339" expanded="true" signature="56030:56157" ph="{&quot;center&quot;: myLatlng...}" />
+            <marker date="1484842195339" expanded="true" signature="56355:56386" ph="{&quot;content&quot;: contentString...}" />
+            <marker date="1484842195339" expanded="true" signature="56424:56484" ph="{&quot;position&quot;: myLatlng...}" />
+            <marker date="1484842195339" expanded="true" signature="56549:56587" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.vaseman/media/rs-plugin/assets/arrow_left.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.vaseman/media/rs-plugin/js/jquery.themepunch.enablelog.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.vaseman/layouts/home/banner.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="181" column="0" lean-forward="false" selection-start-line="181" selection-start-column="0" selection-end-line="181" selection-end-column="0" />
+          <folding>
+            <element signature="n#div#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.vaseman/media/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="1617" column="18" lean-forward="false" selection-start-line="1617" selection-start-column="14" selection-end-line="1617" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.vaseman/media/js/custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="72" column="18" lean-forward="false" selection-start-line="72" selection-start-column="10" selection-end-line="72" selection-end-column="18" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.vaseman/entries/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="16" column="24" lean-forward="false" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+          <folding>
+            <element signature="e#233#267#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.vaseman/layouts/home/contact-2.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="453">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.vaseman/media/img/bg-1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.vaseman/config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="35" lean-forward="false" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.vaseman/layouts/home/about.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="158" column="45" lean-forward="false" selection-start-line="158" selection-start-column="45" selection-end-line="158" selection-end-column="45" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#1;n#div#0;n#section#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#2;n#div#1;n#div#0;n#section#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#section#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.vaseman/media/css/main.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="56" column="28" lean-forward="false" selection-start-line="56" selection-start-column="28" selection-end-line="56" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.vaseman/layouts/home/service.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-362">
+          <caret line="94" column="56" lean-forward="false" selection-start-line="94" selection-start-column="56" selection-end-line="94" selection-end-column="56" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#section#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.vaseman/layouts/home/pricing.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="108" column="10" lean-forward="false" selection-start-line="108" selection-start-column="10" selection-end-line="108" selection-end-column="10" />
+          <folding>
+            <element signature="n#div#0;n#div#1;n#div#0;n#section#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#3;n#div#0;n#div#1;n#div#0;n#section#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#small#0;n#h2#0;n#div#0;n#div#0;n#div#3;n#div#0;n#div#1;n#div#0;n#section#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#section#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.vaseman/src/Plugin/works.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="39" column="20" lean-forward="false" selection-start-line="39" selection-start-column="20" selection-end-line="39" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.vaseman/layouts/_global/html.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-323">
+          <caret line="4" column="34" lean-forward="false" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+          <folding>
+            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.vaseman/layouts/home/work.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="17" column="72" lean-forward="false" selection-start-line="17" selection-start-column="72" selection-end-line="17" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.vaseman/src/Plugin/ConfigPlugin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="32" column="34" lean-forward="false" selection-start-line="32" selection-start-column="34" selection-end-line="32" selection-end-column="34" />
+          <folding>
+            <element signature="e#165#193#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.vaseman/media/js/contact_me.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="543">
+          <caret line="49" column="41" lean-forward="false" selection-start-line="49" selection-start-column="41" selection-end-line="49" selection-end-column="41" />
+          <folding>
+            <marker date="1484842094426" expanded="true" signature="1515:1522" ph="×" />
+            <marker date="1484842094426" expanded="true" signature="2235:2242" ph="×" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.vaseman/layouts/home/contact.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="39" column="107" lean-forward="false" selection-start-line="39" selection-start-column="107" selection-end-line="39" selection-end-column="107" />
+          <folding />
         </state>
       </provider>
     </entry>

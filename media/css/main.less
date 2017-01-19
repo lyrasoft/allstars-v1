@@ -1,0 +1,64 @@
+
+@main-font: "Source Sans Pro", 'PingFang TC', 'Heiti TC', '微軟正黑體', sans-serif;
+
+body {
+	font-family: @main-font;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: @main-font;
+}
+
+P {
+	color: #666;
+	font-size: 16px;
+}
+
+// Global
+.btn {
+	font-family: @main-font;
+}
+
+.btn-hero {
+	font-size: 21px;
+	padding: 16px 32px;
+}
+
+// Features
+.feature-icon {
+	margin-bottom: 30px;
+
+	i {
+		color: #333;
+		font-size: 36px;
+		width: 96px;
+		height: 96px;
+		line-height: 96px;
+		text-align: center;
+		background-color: #f6f6f6;
+		border-radius: 50%;
+		-moz-transition: all 200ms ease-in;
+		-o-transition: all 200ms ease-in;
+		-webkit-transition: all 200ms ease-in;
+		transition: all 200ms ease-in;
+
+		&:hover {
+			background-color: #333;
+			color: #f6f6f6;
+		}
+	}
+}
+
+// Testi
+.testi {
+	h4 {
+		font-size: 21px;
+		font-family: @main-font;
+		font-weight: bolder;
+	}
+
+	p {
+		font-size: 16px;
+		font-weight: normal;
+	}
+}

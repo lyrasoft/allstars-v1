@@ -1,101 +1,1069 @@
 <!DOCTYPE html>
-<html lang="zh-TW">
-    <head>
-        <title>星辰設計 - 高品質網站建置與網頁設計</title>
-
-        <link rel="shortcut icon" href="img/favicon.png" type="image/x-icon">
-        <link rel="icon" href="img/favicon.png" type="image/x-icon">
-
+<html lang="en">
+<head>
+            <title>Allstars 星辰設計 - 專業網頁設計與雲端系統開發</title>
         <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <meta name="description" content="星辰設計 - 高品質網站建置與網頁設計">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href="media/img/favicon.png" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!--bootstrap css-->
+    <link href="media/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <!--custom css-->
+    <link href="media/css/style.css" rel="stylesheet" type="text/css">
+    <!--flex slider css-->
+    <link href="media/css/flexslider.css" rel="stylesheet">
+    <!--google web fonts css-->
+    <link href='http://fonts.googleapis.com/css?family=Raleway:400,300,500,600,800' rel='stylesheet' type='text/css'>
 
-        <!--bootstrap css-->
-        <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
-        <!--custom css-->
-        <link href="css/style.css" rel="stylesheet" type="text/css">
-        <!--flex slider css-->
-        <link href="css/flexslider.css" rel="stylesheet">
-        <!--google web fonts css-->
-        <link href='http://fonts.googleapis.com/css?family=Raleway:400,300,500,600,800' rel='stylesheet' type='text/css'>
-        
-        <!-- icons css-->
-        <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet">
-        <!--animated css-->
-        <link href="css/animate.css" rel="stylesheet">
-        <!-- The HTML5 shim, for IE6-8 support of HTML5 elements -->
-        <!--[if lt IE 9]>
-        <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
-        <script src="js/respond.min.js"></script>
-        <![endif]-->
+    <!-- icons css-->
+    <link href="media/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <!--animated css-->
+    <link href="media/css/animate.css" rel="stylesheet">
+    <!--owl carousel css-->
+    <link href="media/css/owl.carousel.css" rel="stylesheet" type="text/css" media="screen">
+    <link href="media/css/owl.theme.css" rel="stylesheet" type="text/css" media="screen">
+    <!--Revolution slider css-->
+    <link href="media/rs-plugin/css/settings.css" rel="stylesheet" type="text/css" media="screen">
 
-        <style>
-            body, h1, h2, h3, h4, h5, h6 {
-                font-family: "Source Sans Pro", "PingFang TC", "HeiTi TC", "微軟正黑體", sans-serif;
-            }
-        </style>
-    </head>
-    <body class="soon-bg">
+    <link href="media/css/silicone.min.css" rel="stylesheet" type="text/css">
+    <link href="media/css/main.css" rel="stylesheet" type="text/css">
 
-        <div class="container soon">
-            <div class="row">
-                <div class="col-md-12 text-center animated fadeInDown">
-                    <h1 class="sr-only">星辰設計</h1>
-                    <img width="450" height="450" src="img/allstars-logo-alpha.png" alt="星辰設計">
-                    <h2>即將到來</h2>
-                </div>
+    <!-- The HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+    <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <script src="media/js/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body data-spy="scroll" data-target="#navigation" data-offset="80">
+<section id="navigation" class="fixed-navigation">
+    <div class="navbar navbar-default navbar-static-top navbar-transparent" role="navigation">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="./">Allstars</a>
             </div>
-            <div class="row">
-                <div class="col-md-12 text-center animated fadeInUp">
-                    <div id="defaultCountdown"></div><!--countdown-->
-                </div>
-            </div>
-        </div><!--countdown-->
-        <!--<div class="container">-->
-            <!--<div class="row">-->
-                <!--<div class="col-sm-6 col-sm-offset-3 text-center animated fadeInLeft">-->
-                    <!--<form role="form" method="post" action="#" class="subscribe-form  codeon-newsletter">-->
-                        <!--<div class="form-group">-->
-                             <!--<input type="text" class="form-control" name="email" placeholder="Enter email to subscribe">-->
-                        <!--</div>-->
-                        <!--<button class="btn-theme-color btn btn-lg" name="submit" type="submit">Notify me</button>-->
-                        <!--&lt;!&ndash; <button type="submit" class="btn-theme-color btn btn-lg">Notify me</button> &ndash;&gt;-->
-                    <!--</form>-->
-                <!--</div>-->
-            <!--</div>-->
-        <!--</div>-->
-        <div class="footer-soon">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12 text-center">
-                        <ul class="list-inline social-colored animated fadeInRight"> 
-                            <li><a href="javascript: void(0);"><i class="fa fa-facebook icon-fb" data-toggle="tooltip" title="" data-original-title="Facebook" data-placement="top"></i></a></li>
-                            <li><a href="javascript: void(0);"><i class="fa fa-twitter icon-twit" data-toggle="tooltip" title="" data-original-title="Twitter" data-placement="top"></i></a></li>
-                            <li><a href="javascript: void(0);"><i class="fa fa-google-plus icon-plus" data-toggle="tooltip" title="" data-original-title="Google pluse" data-placement="top"></i></a></li>
-                            <li><a href="javascript: void(0);"><i class="fa fa-linkedin icon-in" data-toggle="tooltip" title="" data-original-title="Linkedin" data-placement="top"></i></a></li>
+            <div class="navbar-collapse collapse">
+
+                <ul class="nav navbar-nav navbar-right scrollto">
+                    <li><a href="#home">Home</a></li>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#services">Services</a></li>
+                    <li><a href="#work">Work</a></li>
+
+                    <li class="dropdown">
+                        <span data-toggle="dropdown" class="dropdown-toggle js-activated">Pages <b class="caret"></b></span>
+                        <ul class="dropdown-menu">
+                            <li><a href="blog-list.html">Blog List</a></li>
+                            <li><a href="blog-post.html">Blog Post</a></li>
+                            <li><a href="portfolio-3.html">Portfolio 3 columns</a></li>
+                            <li><a href="portfolio-full.html">Portfolio Full width</a></li>
+                            <li><a href="portfolio-masonry.html">Portfolio Masonry</a></li>
+                            <li><a href="single-work.html">Portfolio Single</a></li>
+                            <li><a href="soon.html">Coming Soon</a></li>
+                            <li class="dropdown-submenu">
+                                <a tabindex="-1" href="#">Third level Menu</a>
+                                <ul class="dropdown-menu">
+                                    <li><a tabindex="-1" href="#">Second level</a></li>
+                                    <li class="dropdown-submenu">
+                                        <a href="#">Even More..</a>
+                                        <ul class="dropdown-menu">
+                                            <li><a href="#">3rd level</a></li>
+                                            <li><a href="#">3rd level</a></li>
+                                        </ul>
+                                    </li>
+                                    <li><a href="#">Second level</a></li>
+                                    <li><a href="#">Second level</a></li>
+                                </ul>
+                            </li>
                         </ul>
-                        <p class="animated fadeInUp">Copyright &copy; 2017 - Allstars</p>
+                    </li>
+                    <li><a href="#pricing">Pricing</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                    <li class="dropdown">
+                        <span data-toggle="dropdown" class="dropdown-toggle js-activated">Demos <b class="caret"></b></span>
+                        <ul class="dropdown-menu">
+                            <li><a href="demo-default.html">Slider revolution</a></li>
+                            <li><a href="video-slider.html">Slider Video</a></li>
+                            <li><a href="fullscreen-parallax-bg-demo.html">Full screen parallax</a></li>
+                            <li><a href="demo-video-bg.html">Video background</a></li>
+
+                            <li><a href="transparent-header-demo.html">Header transparent</a></li>
+                            <li><a href="soon.html">Coming Soon</a></li>
+                            <li><a href="fullscreen-nav.html">Full screen menu</a></li>
+                        </ul>
+                    </li>
+
+                </ul>
+
+            </div><!--/.nav-collapse -->
+        </div><!--/.container -->
+    </div>
+</section><!--navigation section end here-->
+
+    <div class="tp-banner-container" id="home">
+    <div class="tp-banner-video">
+        <ul>
+            <!-- SLIDE  -->
+            <li data-transition="fade" data-slotamount="1" data-masterspeed="1000" data-thumb="img/star-cover.jpg"  data-saveperformance="off"  data-title="Quick Results">
+                <!-- MAIN IMAGE -->
+                <img src="media/img/star-cover.jpg"  alt="video_typing_cover"  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat">
+                <!-- LAYERS -->
+
+                <!-- LAYER NR. 1 -->
+                <div class="tp-caption tp-fade fadeout fullscreenvideo"
+                    data-x="0"
+                    data-y="0"
+                    data-speed="1000"
+                    data-start="1100"
+                    data-easing="Power4.easeOut"
+                    data-elementdelay="0.01"
+                    data-endelementdelay="0.1"
+                    data-endspeed="1500"
+                    data-endeasing="Power4.easeIn"
+                    data-autoplay="true"
+                    data-autoplayonlyfirsttime="false"
+                    data-nextslideatend="true"
+                    data-volume="mute"
+                    data-forceCover="1"
+                    data-aspectratio="16:9"
+                    data-forcerewind="on"
+                    style="z-index: 2;">
+                    <video class="img-responsive" preload="none"
+                        poster='media/img/star-cover.jpg'>
+                        <source src='https://dl.dropboxusercontent.com/u/28005361/video/among_the_stars.mp4' type='video/mp4' />
+                        <source src='https://dl.dropboxusercontent.com/u/28005361/video/among_the_stars.webm' type='video/webm' />
+                    </video>
+                </div>
+
+                <!-- Home Heading -->
+                <div class="tp-caption sft Ken-burns-heading"
+                    data-x="center"
+                    data-y="260"
+                    data-speed="1200"
+                    data-start="1100"
+                    data-easing="Power3.easeInOut"
+                    data-splitin="none"
+                    data-splitout="none"
+                    data-elementdelay="0.1"
+                    data-endelementdelay="0.1"
+                    data-endspeed="300"
+                    style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;">
+                    Creative codeon
+                </div>
+                <!-- Home Subheading -->
+                <div class="tp-caption ken-burns-cap sft fadeout"
+                    data-x="center"
+                    data-y="390"
+                    data-speed="1200"
+                    data-start="1350"
+                    data-easing="Power3.easeInOut"
+                    data-splitin="none"
+                    data-splitout="none"
+                    data-elementdelay="0.1"
+                    data-endelementdelay="0.1"
+                    data-endspeed="300"
+                    style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;">
+                    Made with love from top to bottom
+                </div>
+                <!-- Home Button -->
+                <div class="tp-caption home-button sft fadeout"
+                    data-x="center"
+                    data-y="450"
+                    data-speed="1200"
+                    data-start="1550"
+                    data-easing="Power3.easeInOut"
+                    data-splitin="none"
+                    data-splitout="none"
+                    data-elementdelay="0.1"
+                    data-endelementdelay="0.1"
+                    data-endspeed="300"
+                    style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;">
+                    <div class="rev-buttons scrollto">
+
+                        <a href="#work" class="btn btn-theme-color btn-lg">
+                            Our Portfolio
+                        </a>
+
+                    </div>
+                </div>
+            </li>
+
+            <!-- SLIDE  -->
+            <li data-transition="slidehorizontal" data-slotamount="1" data-masterspeed="1000" data-thumb="img/typing-cover.jpg"  data-saveperformance="off"  data-title="Quick Results">
+                <!-- MAIN IMAGE -->
+                <img src="media/img/typing-cover.jpg"  alt="video_typing_cover"  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat">
+                <!-- LAYERS -->
+
+                <!-- LAYER NR. 1 -->
+                <div class="tp-caption tp-fade fadeout fullscreenvideo"
+                    data-x="0"
+                    data-y="0"
+                    data-speed="1000"
+                    data-start="1100"
+                    data-easing="Power4.easeOut"
+                    data-elementdelay="0.01"
+                    data-endelementdelay="0.1"
+                    data-endspeed="1500"
+                    data-endeasing="Power4.easeIn"
+                    data-autoplay="true"
+                    data-autoplayonlyfirsttime="false"
+                    data-nextslideatend="true"
+                    data-volume="mute"
+                    data-forceCover="1"
+                    data-aspectratio="16:9"
+                    data-forcerewind="on"
+                    style="z-index: 2;">
+                    <video class="img-responsive" preload="none"
+                        poster='media/img/typing-cover.jpg'>
+                        <source src='http://bootstraplovers.com/videos/computer_typing.mp4' type='video/mp4' />
+                        <source src='http://bootstraplovers.com/videos/computer_typing.webm' type='video/webm' />
+                    </video>
+                </div>
+
+                <!-- Home Heading -->
+                <div class="tp-caption sft Ken-burns-heading"
+                    data-x="center"
+                    data-y="260"
+                    data-speed="1200"
+                    data-start="1100"
+                    data-easing="Power3.easeInOut"
+                    data-splitin="none"
+                    data-splitout="none"
+                    data-elementdelay="0.1"
+                    data-endelementdelay="0.1"
+                    data-endspeed="300"
+                    style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;">
+                    Super coders
+                </div>
+                <!-- Home Subheading -->
+                <div class="tp-caption ken-burns-cap sft fadeout"
+                    data-x="center"
+                    data-y="390"
+                    data-speed="1200"
+                    data-start="1350"
+                    data-easing="Power3.easeInOut"
+                    data-splitin="none"
+                    data-splitout="none"
+                    data-elementdelay="0.1"
+                    data-endelementdelay="0.1"
+                    data-endspeed="300"
+                    style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;">
+                    WORDPRESS · PHP · TEMPLATE DESIGN · PSD DESIGN
+                </div>
+                <!-- Home Button -->
+                <div class="tp-caption rev-buttons sft fadeout"
+                    data-x="center"
+                    data-y="450"
+                    data-speed="1200"
+                    data-start="1550"
+                    data-easing="Power3.easeInOut"
+                    data-splitin="none"
+                    data-splitout="none"
+                    data-elementdelay="0.1"
+                    data-endelementdelay="0.1"
+                    data-endspeed="300"
+                    style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;">
+                    <div class="rev-buttons scrollto">
+
+                        <a href="#about" class="btn btn-theme-color btn-lg">
+                            About us
+                        </a>
+
+                    </div>
+                </div>
+            </li>
+
+        </ul>
+
+    </div>
+
+
+
+</div>	<!--video slider-->
+
+<section id="about" class="padding-80">
+
+    <!--about page content-->
+    <div class="about-section">
+        <div class="container">
+            <div class="section-heading text-center">
+                <h4 class="small section-title"><span>We love what we do?</span></h4>
+                <h2 class="large section-title">我們的特色</h2>
+            </div><!--section heading-->
+
+        </div><!--container-->
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 col-sm-6">
+                    <div class="about-box wow animated fadeInDown" data-wow-duration="0.3s">
+                        <div class="about-box-icon">
+                            <i class="fa fa-lightbulb-o"></i>
+                        </div>
+                        <div class="about-box-text">
+                            <h4>簡單大方的設計</h4>
+                            <p>
+                                簡潔、充分溝通，是網站的重要任務，將企業的中心思想傳達給客戶，這也是星辰設計最重視的設計理念。
+                            </p>
+                        </div>
+                    </div><!--about us box end-->
+                </div>
+                <div class="col-md-6 col-sm-6">
+                    <div class="about-box wow animated fadeInDown" data-wow-delay="0.5">
+                        <div class="about-box-icon">
+                            <i class="fa fa-code"></i>
+                        </div>
+                        <div class="about-box-text">
+                            <h4>價格透明</h4>
+                            <p>
+                                厭倦了討論與等待報價的漫長時間嗎？ 我們認為價格透明是很重要的事情，讓您清楚理解每個製作細節所需的價格，
+                                不會有意料之外的費用干擾您的計畫。
+                            </p>
+                        </div>
+                    </div><!--about us box end-->
+                </div>
+            </div><!--about services row end-->
+            <div class="row">
+                <div class="col-md-6 col-sm-6">
+                    <div class="about-box wow animated fadeInDown" data-wow-delay="0.6s">
+                        <div class="about-box-icon">
+                            <i class="fa fa-image"></i>
+                        </div>
+                        <div class="about-box-text">
+                            <h4>彈性方案</h4>
+                            <p>
+                                星辰設計提供多種網站方案，可以根據您的事業規模大小來做選擇。同時也可以根據需求來任選加購的功能，
+                                無論是報名系統、徵才頁面等等都能自由加裝，讓網站製作充滿彈性。
+                            </p>
+                        </div>
+                    </div><!--about us box end-->
+                </div>
+                <div class="col-md-6 col-sm-6">
+                    <div class="about-box wow animated fadeInDown" data-wow-delay="0.8s">
+                        <div class="about-box-icon">
+                            <i class="fa fa-hand-o-up"></i>
+                        </div>
+                        <div class="about-box-text">
+                            <h4>高速製作</h4>
+                            <p>
+                                對新創企業來講，時間就是金錢。星辰設計的網站方案可以大幅降低製作過程的溝通時間，
+                                迅速替客戶完成網站，讓您的事業更快啟動，不受拖延。
+                            </p>
+                        </div>
+                    </div><!--about us box end-->
+                </div>
+            </div><!--about services row end-->
+            <div class="about-section-more">
+                <div class="row">
+                    <div class="col-md-6 col-sm-6">
+                        <div class="about-more-info wow animated fadeInUp" data-wow-delay="0.3s">
+                            <p>
+                                星辰設計提供了與一般網頁設計公司不同的網站建置模式，您不需要付出昂貴的價格與長時間的等待，
+                                只要挑選合適的網站方案與想要的功能，我們可以快速替您設計出理想的網站，不讓事業的啟動受到拖延。
+                            </p>
+                            <p>
+                                如果您需要的不只是一個網站，還需要進行內部管理，或特殊服務，星辰設計也能夠替您進行客製化雲端系統開發。
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-sm-6">
+                        <div class="skills-wrapper wow animated bounceIn" data-wow-delay="0.6s">
+                            <h3 class="heading-progress">網頁設計 <span class="pull-right">100%</span></h3>
+                            <div class="progress">
+                                <div class="progress-bar" style="width: 100%" aria-valuemax="100" aria-valuemin="0" aria-valuenow="88" role="progressbar">
+                                </div>
+                            </div>
+                            <h3 class="heading-progress">系統開發 <span class="pull-right">90%</span></h3>
+                            <div class="progress">
+                                <div class="progress-bar" style="width: 90%" aria-valuemax="100" aria-valuemin="0" aria-valuenow="78" role="progressbar">
+                                </div>
+                            </div>
+                            <h3 class="heading-progress">行銷建議 <span class="pull-right">82%</span></h3>
+                            <div class="progress">
+                                <div class="progress-bar" style="width: 82%" aria-valuemax="100" aria-valuemin="0" aria-valuenow="82" role="progressbar">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row easy-pie-chart-row">
+                    <div class="col-sm-3 text-center">
+                        <div class="progress-circle">
+
+                            <div class="chart" data-percent="95" data-scale-color="#9eca45">
+                                <span>95%</span>
+                                <canvas height="120" width="120"></canvas>
+                            </div>
+                            <p class="progress-text">HTML5 / CSS3</p>
+                        </div>
+                    </div>
+                    <div class="col-sm-3 text-center">
+                        <div class="progress-circle">
+
+                            <div class="chart" data-percent="85" data-scale-color="#9eca45">
+                                <span>85%</span>
+                                <canvas height="120" width="120"></canvas>
+                            </div>
+                            <p class="progress-text">Joomla</p>
+                        </div>
+                    </div>
+                    <div class="col-sm-3 text-center">
+                        <div class="progress-circle">
+
+                            <div class="chart" data-percent="90" data-scale-color="#9eca45">
+                                <span>90%</span>
+                                <canvas height="120" width="120"></canvas>
+                            </div>
+                            <p class="progress-text">Jquery</p>
+                        </div>
+                    </div>
+                    <div class="col-sm-3 text-center">
+                        <div class="progress-circle">
+
+                            <div class="chart" data-percent="95" data-scale-color="#9eca45">
+                                <span>95%</span>
+                                <canvas height="120" width="120"></canvas>
+                            </div>
+                            <p class="progress-text">PHP</p>
+                        </div>
+                    </div>
+
+                </div>
+
+            </div><!--section about 3 end-->
+        </div>
+    </div>
+
+    <div class="purchase-now parallax" data-stellar-background-ratio="0.5" style="background-image: url(http://i.imgur.com/9SZuw0c.jpg);">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-8">
+                    <h1 class="wow animated fadeInLeft" data-wow-delay="0.3s">用設計，讓您的 <strong>事業</strong> 騰空起飛</h1>
+                </div>
+                <div class="col-sm-4 scrollto">
+                    <a href="#pricing" class="btn btn-lg btn-theme-color wow animated bounceIn" data-wow-delay="0.6s"> 了解網站方案</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--page about content end here-->
+</section>
+<!--about section end here-->
+
+<!--section services start here-->
+<section id="services" class="padding-80">
+
+    <div class="services-section-1">
+        <div class="container">
+            <div class="section-heading text-center">
+                <h4 class="small section-title"><span>What we do?</span></h4>
+                <h2 class="large section-title">網站功能特性</h2>
+            </div><!--section heading-->
+
+        </div><!--container-->
+        <div class="container">
+            <div class="row xs-mb-50">
+                <div class="col-md-2 wow animated fadeInTop text-center col-md-offset-1">
+                    <div class="feature-icon">
+                        <i class="fa fa-list"></i>
+                    </div>
+                    <h5>規格明確</h5>
+                </div>
+
+                <div class="col-md-2 wow animated fadeInTop text-center">
+                    <div class="feature-icon">
+                        <i class="fa fa-bolt"></i>
+                    </div>
+                    <h5>快速交件</h5>
+                </div>
+
+                <div class="col-md-2 wow animated fadeInTop text-center">
+                    <div class="feature-icon">
+                        <i class="fa fa-clone"></i>
+                    </div>
+                    <h5>自動備援</h5>
+                </div>
+
+                <div class="col-md-2 wow animated fadeInTop text-center">
+                    <div class="feature-icon">
+                        <i class="fa fa-server"></i>
+                    </div>
+                    <h5>贈送一年主機空間</h5>
+                </div>
+
+                <div class="col-md-2 wow animated fadeInTop text-center">
+                    <div class="feature-icon">
+                        <i class="fa fa-money"></i>
+                    </div>
+                    <h5>透明化價格</h5>
+                </div>
+            </div>
+
+            <div class="row xs-mb-50">
+                <div class="col-md-2 wow animated fadeInTop text-center col-md-offset-1">
+                    <div class="feature-icon">
+                        <i class="fa fa-gear"></i>
+                    </div>
+                    <h5>後台管理功能</h5>
+                </div>
+
+                <div class="col-md-2 wow animated fadeInTop text-center">
+                    <div class="feature-icon">
+                        <i class="fa fa-facebook"></i>
+                    </div>
+                    <h5>Facebook 整合</h5>
+                </div>
+
+                <div class="col-md-2 wow animated fadeInTop text-center">
+                    <div class="feature-icon">
+                        <i class="fa fa-mobile"></i>
+                    </div>
+                    <h5>RWD 手機適應網站</h5>
+                </div>
+
+                <div class="col-md-2 wow animated fadeInTop text-center">
+                    <div class="feature-icon">
+                        <i class="fa fa-line-chart"></i>
+                    </div>
+                    <h5>GA 流量分析</h5>
+                </div>
+
+                <div class="col-md-2 wow animated fadeInTop text-center">
+                    <div class="feature-icon">
+                        <i class="fa fa-th"></i>
+                    </div>
+                    <h5>多種功能任君挑選</h5>
+                </div>
+            </div>
+
+        </div>
+    </div><!--services section 1 end-->
+
+    <!--testimonials-->
+    <div class="testi parallax bg-cover" data-stellar-background-ratio="0.5" style="background-image: url(http://i.imgur.com/906qDVP.jpg)">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8 col-md-offset-2 text-center">
+                    <div id="testi-carousel" class="owl-carousel">
+                        <div>
+                            <img src="media/img/client/client-1.png" alt="">
+                            <p class="xs-mt-15">
+                                網站上線後幫了我很大的忙，現在每天都會有人詢問美容、時尚彩妝、新祕造型等相關課程，有時甚至到10幾封以上，星辰設計的團隊確實令人佩服。
+                            </p>
+                            <h4>秀妃美容造型設計</h4>
+                        </div><!--testimonials item like paragraph-->
+                        <div>
+                            <img src="media/img/client/client-2.png" alt="">
+                            <p class="xs-mt-15">
+                                星辰能夠依照我們的需求，提供適合的方案，做出通盤的規劃，而且收費合理，
+                                設計出符合事業特質的網站風格，是令人信賴、值得推薦的專業網站設計規劃公司
+                            </p>
+                            <h4>合毅電子</h4>
+                        </div><!--testimonials item like paragraph-->
+                        <div>
+                            <img src="media/img/client/client-3.png" alt="">
+                            <p class="xs-mt-15">
+                                非常感謝您的幫忙，無論什麼疑難雜症，您都可以搞定，自從您為我們設計網站之後，
+                                業績越來越好，網站真的很重要，非常感謝。
+                            </p>
+                            <h4>建宏車業</h4>
+                        </div><!--testimonials item like paragraph-->
                     </div>
                 </div>
             </div>
         </div>
-            <!--back to top-->
-        <a href="#" class="scrollToTop"><i class="fa fa-angle-up"></i></a>
-        <!--back to top end-->
+    </div>
+    <!--testimonials-->
 
-        <!--script files-->
-        <script src="js/jquery.min.js" type="text/javascript"></script>
-        <script src="js/pace.min.js" type="text/javascript"></script>
-        <!--countdown coming soon-->
-        <script src="js/jquery.countdown.js" type="text/javascript"></script>
-        <script type="text/javascript">
-            $(function() {
-                var austDay = new Date();
-                austDay = new Date('2017-03-29');
-                $('#defaultCountdown').countdown({until: austDay});
-                $('#year').text(austDay.getFullYear());
-            });
-        </script>
-    </body>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </section>
+<!--section services end here-->
+
+<!--pricing table section start here-->
+<section id="pricing" class="padding-80">
+
+    <div class="pricing-section-1">
+        <div class="container">
+            <div class="section-heading text-center">
+                <h4 class="small section-title"><span>Choose a plan</span></h4>
+                <h2 class="large section-title">網站方案</h2>
+            </div><!--section heading-->
+        </div><!--section heading-->
+        <div class="container">
+            <div class="row">
+                <div class="col-md-3">
+                    <div class="pricing-wrapper wow animated fadeInDown" data-wow-delay=".3s">
+                        <div class="pricing-wrapper-inner">
+                            <h1>A <br /> <small>微型企業啟動方案</small></h1>
+                            <h2>$29,000</h2>
+                            <div class="price-desc">
+                                <p>圖文排版 5 頁</p>
+                                <p>首頁橫幅 1 張</p>
+                                <p>簡易版聯絡表單</p>
+                                <p><i class="fa fa-times"></i></p>
+                                <p><i class="fa fa-times"></i></p>
+                                <p><i class="fa fa-times"></i></p>
+                            </div>
+
+                            <div class="price-join">
+                                <a href="#" class="btn btn-lg btn-theme-color">Choose plan</a>
+                            </div>
+                        </div>
+                    </div><!--pricing wrapper-->
+                </div><!--price col-->
+                <div class="col-md-3">
+                    <div class="pricing-wrapper price-popular wow animated fadeInUp" data-wow-delay=".6s">
+                        <div class="pricing-wrapper-inner">
+                            <h1>B <br /> <small>中小企業形象方案</small></h1>
+                            <h2>$49,000</h2>
+                            <div class="price-desc">
+                                <p>圖文排版 10 頁</p>
+                                <p>首頁橫幅 3 張</p>
+                                <p>進階版聯絡表單</p>
+                                <p>最新消息與部落格</p>
+                                <p>任選3種功能元件</p>
+                                <p><i class="fa fa-times"></i></p>
+                            </div>
+
+                            <div class="price-join">
+                                <a href="#" class="btn btn-lg btn-theme-color">Choose plan</a>
+                            </div>
+                        </div>
+                    </div><!--pricing wrapper-->
+                </div><!--price col-->
+                <div class="col-md-3">
+                    <div class="pricing-wrapper wow animated fadeInUp" data-wow-delay=".9s">
+                        <div class="pricing-wrapper-inner">
+                            <h1>C <br /> <small>多功能國際化方案</small></h1>
+                            <h2>$69,000</h2>
+                            <div class="price-desc">
+                                <p>圖文排版 15 頁</p>
+                                <p>首頁橫幅 5 張</p>
+                                <p>進階版聯絡表單</p>
+                                <p>最新消息與部落格</p>
+                                <p>任選5種功能元件</p>
+                                <p>多國語言</p>
+                            </div>
+
+                            <div class="price-join">
+                                <a href="#" class="btn btn-lg btn-theme-color">Choose plan</a>
+                            </div>
+                        </div>
+                    </div><!--pricing wrapper-->
+                </div><!--price col-->
+                <div class="col-md-3">
+                    <div class="pricing-wrapper wow animated fadeInRight" data-wow-delay=".9s">
+                        <div class="pricing-wrapper-inner">
+                            <h1>D <br /> <small>旗艦級客製化方案</small></h1>
+                            <h2 style="font-size: 3.5em;">$100,000<small style="color: #9eca45;">起</small></h2>
+                            <div class="price-desc">
+                                <p>依需求客製</p>
+                                <p>依需求客製</p>
+                                <p>進階版聯絡表單</p>
+                                <p>最新消息與部落格</p>
+                                <p>依需求客製</p>
+                                <p>依需求客製</p>
+                            </div>
+
+                            <div class="price-join">
+                                <a href="#" class="btn btn-lg btn-theme-color">Choose plan</a>
+                            </div>
+                        </div>
+                    </div><!--pricing wrapper-->
+                </div><!--price col-->
+            </div>
+
+            <div class="to-price-detail xs-mt-50 xs-mb-30">
+                <p class="text-center">
+                    <a href="#" class="btn btn-theme-color btn-hero">瞭解更完整的方案細節與功能元件</a>
+                </p>
+            </div>
+        </div>
+    </div><!--price section one end here-->
+
+
+    <div class="pricing-section-2 parallax bg-cover" data-stellar-background-ratio="0.5" style="background-image: url(http://i.imgur.com/u71FTsG.jpg)">
+        <div class="container text-center wow animated bounceIn">
+            <h1>讓世界看見您的才華</h1>
+            <p class="scrollto"><a href="#contact" class="btn btn-lg btn-theme-color">聯絡我們</a></p>
+        </div>
+    </div>
+
+</section> <!--pricing table section end here-->
+
+<!--our work section start here-->
+<section id="work" class="padding-80">
+
+    <div class="work-section-1">
+        <div class="container">
+            <div class="section-heading text-center">
+                <h4 class="small section-title"><span>Latest portfolio</span></h4>
+                <h2 class="large section-title">成功案例</h2>
+            </div><!--section heading-->
+        </div>
+        <div class="container">
+            <ul class="filter list-inline">
+                <li><a class="active" href="#" data-filter="*">Show All</a></li>
+                                                                <li><a href="#" data-filter=".web-design">網頁設計</a></li>
+                <li><a href="#" data-filter=".development">系統開發</a></li>
+                <li><a href="#" data-filter=".app">App</a></li>
+            </ul>
+            <div class="row">
+                <div class="portfolio-box iso-call work-col-3">
+                                            <div class="project-post web-design">
+                            <a href="http://demo.the-allstars.com/farm/">
+                                <div class="image-wrapper">
+                                    <img src="http://i.imgur.com/GfgiBhk.jpg" class="img-responsive" alt="愛地球 - 環境健康研討會">
+                                    <div class="image-overlay">
+                                        <p>
+                                            View Detail
+                                        </p>
+                                    </div><!--.image-overlay-->
+                                </div><!--.image-wrapper-->
+                            </a>
+                            <div class="work-sesc">
+                                <p>
+                                    愛地球 - 環境健康研討會
+                                </p>
+                            </div><!--.work-desc-->
+                        </div><!--project post-->
+                                            <div class="project-post web-design">
+                            <a href="http://demo.the-allstars.com/activity/">
+                                <div class="image-wrapper">
+                                    <img src="http://i.imgur.com/yMbSt3S.jpg" class="img-responsive" alt="喵X旺旺大集合 - 寵物展">
+                                    <div class="image-overlay">
+                                        <p>
+                                            View Detail
+                                        </p>
+                                    </div><!--.image-overlay-->
+                                </div><!--.image-wrapper-->
+                            </a>
+                            <div class="work-sesc">
+                                <p>
+                                    喵X旺旺大集合 - 寵物展
+                                </p>
+                            </div><!--.work-desc-->
+                        </div><!--project post-->
+                                            <div class="project-post web-design">
+                            <a href="http://demo.the-allstars.com/school/">
+                                <div class="image-wrapper">
+                                    <img src="http://i.imgur.com/Adb1UF1.jpg" class="img-responsive" alt="星辰大學總務處">
+                                    <div class="image-overlay">
+                                        <p>
+                                            View Detail
+                                        </p>
+                                    </div><!--.image-overlay-->
+                                </div><!--.image-wrapper-->
+                            </a>
+                            <div class="work-sesc">
+                                <p>
+                                    星辰大學總務處
+                                </p>
+                            </div><!--.work-desc-->
+                        </div><!--project post-->
+                                            <div class="project-post web-design development">
+                            <a href="">
+                                <div class="image-wrapper">
+                                    <img src="http://i.imgur.com/BApK84w.jpg" class="img-responsive" alt="教育管理平台開發">
+                                    <div class="image-overlay">
+                                        <p>
+                                            View Detail
+                                        </p>
+                                    </div><!--.image-overlay-->
+                                </div><!--.image-wrapper-->
+                            </a>
+                            <div class="work-sesc">
+                                <p>
+                                    教育管理平台開發
+                                </p>
+                            </div><!--.work-desc-->
+                        </div><!--project post-->
+                                            <div class="project-post development app">
+                            <a href="">
+                                <div class="image-wrapper">
+                                    <img src="http://i.imgur.com/KSBemAJ.jpg" class="img-responsive" alt="教育 App 設計開發">
+                                    <div class="image-overlay">
+                                        <p>
+                                            View Detail
+                                        </p>
+                                    </div><!--.image-overlay-->
+                                </div><!--.image-wrapper-->
+                            </a>
+                            <div class="work-sesc">
+                                <p>
+                                    教育 App 設計開發
+                                </p>
+                            </div><!--.work-desc-->
+                        </div><!--project post-->
+                                            <div class="project-post ">
+                            <a href="http://winsoundstudio.com/">
+                                <div class="image-wrapper">
+                                    <img src="http://i.imgur.com/lxbZUJp.jpg" class="img-responsive" alt="WinsoundStudio">
+                                    <div class="image-overlay">
+                                        <p>
+                                            View Detail
+                                        </p>
+                                    </div><!--.image-overlay-->
+                                </div><!--.image-wrapper-->
+                            </a>
+                            <div class="work-sesc">
+                                <p>
+                                    WinsoundStudio
+                                </p>
+                            </div><!--.work-desc-->
+                        </div><!--project post-->
+                                            <div class="project-post web-design">
+                            <a href="">
+                                <div class="image-wrapper">
+                                    <img src="http://i.imgur.com/0VkrwSz.jpg" class="img-responsive" alt="樂活動物協會">
+                                    <div class="image-overlay">
+                                        <p>
+                                            View Detail
+                                        </p>
+                                    </div><!--.image-overlay-->
+                                </div><!--.image-wrapper-->
+                            </a>
+                            <div class="work-sesc">
+                                <p>
+                                    樂活動物協會
+                                </p>
+                            </div><!--.work-desc-->
+                        </div><!--project post-->
+                                            <div class="project-post web-design">
+                            <a href="">
+                                <div class="image-wrapper">
+                                    <img src="http://i.imgur.com/oufJTGl.jpg" class="img-responsive" alt="數位典藏研討會">
+                                    <div class="image-overlay">
+                                        <p>
+                                            View Detail
+                                        </p>
+                                    </div><!--.image-overlay-->
+                                </div><!--.image-wrapper-->
+                            </a>
+                            <div class="work-sesc">
+                                <p>
+                                    數位典藏研討會
+                                </p>
+                            </div><!--.work-desc-->
+                        </div><!--project post-->
+                    
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        </div>
+            </div>
+        </div><!--container-->
+
+
+    </div><!--work section 1-->
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <!--testimonials-->
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+
+    <!--fun facts-->
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <!--fun facts-->
+</section><!--#work-section-->
+<!--our work section end-->
+
+<section id="contact" class="padding-80">
+
+    <div class="contact-sec-1">
+        <div class="container">
+            <div class="section-heading text-center">
+                <h4 class="small section-title"><span>we Love to here from you  </span></h4>
+                <h2 class="large section-title">Contact Us</h2>
+            </div><!--section heading-->
+        </div><!--.container-->
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8">
+                    <h4>Get in touch</h4>
+                    <form name="sentMessage" action="https://api.formbucket.com/f/buk_XRtx81YfYAsUrZXZjd9FFOop" id="contactForm" method="post" novalidate>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="row control-group">
+                                    <div class="form-group col-xs-12 controls">
+                                        <label>Name<span>*</span></label>
+                                        <input type="text" class="form-control" placeholder="Name" name="name" id="name" required data-validation-required-message="Please enter your name.">
+                                        <p class="help-block"></p>
+                                    </div>
+                                </div>
+
+                            </div>
+
+                            <div class="col-md-6">
+                                <div class="row control-group">
+                                    <div class="form-group col-xs-12 controls">
+                                        <label>Email Address<span>*</span></label>
+                                        <input type="email" class="form-control" placeholder="Email Address" name="email" id="email" required data-validation-required-message="Please enter your email address.">
+                                        <p class="help-block"></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row control-group">
+                            <div class="form-group col-xs-12 controls">
+                                <label>Message<span>*</span></label>
+                                <textarea rows="5" class="form-control" placeholder="Message" name="message" id="message" required data-validation-required-message="Please enter a message."></textarea>
+                                <p class="help-block"></p>
+                            </div>
+                        </div>
+                        <br>
+                        <div id="success"></div>
+                        <div class="row">
+                            <div class="form-group col-xs-12">
+                                <button type="submit" class="btn btn-theme-color btn-lg">Send Message</button>
+                            </div>
+                        </div>
+                    </form>
+                    <!--contact form-->
+                </div>
+                <div class="col-md-4">
+                    <h4>Contact info</h4>
+                    <div class="contact-info wow animated fadeInRight" data-wow-delay=".6s">
+                        <p><i class="fa fa-home"></i> 124,Munna wali Dhani Jaipur, India</p>
+                        <p><i class="fa fa-home"></i> +91 141-1234567890</p>
+                        <p><b>Fax:</b> +91 1234567890</p>
+                        <p><i class="fa fa-envelope"></i> <a href="#">mail@domain.com</a></p>
+                        <p><i class="fa fa-clock-o"></i> Monday-Friday 9:30-5:30pm</p>
+                        <hr>
+                        <h4>Elsewhere</h4>
+                        <ul class="list-inline social-colored">
+                            <li><a href="#"><i class="fa fa-facebook icon-fb" data-toggle="tooltip" title="" data-original-title="Facebook" data-placement="top"></i></a></li>
+                            <li><a href="#"><i class="fa fa-twitter icon-twit" data-toggle="tooltip" title="" data-original-title="Twitter" data-placement="top"></i></a></li>
+                            <li><a href="#"><i class="fa fa-google-plus icon-plus" data-toggle="tooltip" title="" data-original-title="Google pluse" data-placement="top"></i></a></li>
+                            <li><a href="#"><i class="fa fa-linkedin icon-in" data-toggle="tooltip" title="" data-original-title="Linkedin" data-placement="top"></i></a></li>
+
+                        </ul> <!--colored social-->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div><!--Contact-sec-1 end-->
+
+</section><!--contact section end-->
+
+<div id="map-canvas" style="width:100%; height: 350px;"></div>
+
+<div class="contact-sec-2">
+    <div class="container text-center">
+        <div class="row">
+            <div class="col-sm-4">
+                <div class="contact-col wow animated flipInY" data-wow-delay=".3s">
+                    <i class="fa fa-phone"></i>
+                    <p>+91 0141 123456789</p>
+                </div>
+            </div>
+            <div class="col-sm-4">
+                <div class="contact-col wow animated flipInY" data-wow-delay=".3s">
+                    <i class="fa fa-envelope"></i>
+                    <p>mail@Domain.com</p>
+                </div>
+            </div>
+            <div class="col-sm-4">
+                <div class="contact-col wow animated flipInY" data-wow-delay=".3s">
+                    <i class="fa fa-home"></i>
+                    <p>124,munnawali jaipur<br>302012, india</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div><!--Contact-sec-1 end-->
+
+
+<section id="footer" class="padding-80">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 col-sm-6 copyright">
+                <span>&copy;2014.Design_mylife. All right reserved</span>
+            </div>
+            <div class="col-md-6 col-sm-6 footer-nav">
+                <ul class="list-inline">
+                    <li><a href="demo-default.html">Home</a></li>
+                    <li><a href="blog-list.html">Latest news</a></li>
+                    <li><a href="typography.html">Typography</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</section><!--footer end-->
+<!--back to top-->
+<a href="#" class="scrollToTop"><i class="fa fa-angle-up"></i></a>
+<!--back to top end-->
+
+<!--script files-->
+<script src="media/js/jquery.min.js" type="text/javascript"></script>
+<script src="media/js/moderniz.min.js" type="text/javascript"></script>
+<script src="media/js/jquery-migrate.min.js" type="text/javascript"></script>
+<script src="media/js/jquery.easing.1.3.min.js" type="text/javascript"></script>
+<script src="media/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
+<script src="media/js/jquery.flexslider-min.js" type="text/javascript"></script>
+<script src="media/js/wow.min.js" type="text/javascript"></script>
+<script src="media/js/jquery.sticky.js" type="text/javascript"></script>
+<script src="media/js/bootstrap-hover-dropdown.min.js" type="text/javascript"></script>
+<script src="media/js/jquery.stellar.min.js" type="text/javascript"></script>
+<script src="media/js/owl.carousel.min.js" type="text/javascript"></script>
+<script src="media/js/jquery.mb.YTPlayer.min.js" type="text/javascript"></script>
+<script src="media/js/waypoints.min.js"></script>
+<script src="media/js/easypiechart.js"></script>
+<script src="media/js/jquery.isotope.min.js" type="text/javascript"></script>
+<!--image loads plugin -->
+<script src="media/js/jquery.imagesloaded.min.js" type="text/javascript"></script>
+<script src="media/js/jquery.counterup.min.js" type="text/javascript"></script>
+<script src="media/js/jquery.countdown.js" type="text/javascript"></script>
+<script src="media/js/contact_me.js" type="text/javascript"></script>
+<script src="media/js/jqBootstrapValidation.js" type="text/javascript"></script>
+<script src="media/js/custom.js" type="text/javascript"></script>
+<!--revolution slider plugins-->
+<script src="media/rs-plugin/js/jquery.themepunch.tools.min.js" type="text/javascript"></script>
+<script src="media/rs-plugin/js/jquery.themepunch.revolution.min.js" type="text/javascript"></script>
+<script src="media/js/revolution-custom.js" type="text/javascript"></script>
+<script src="media/js/isotope-custom.js" type="text/javascript"></script>
+<script src="media/js/pace.min.js" type="text/javascript"></script>
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=true"></script>
+<script type="text/javascript">
+	var myLatlng;
+	var map;
+	var marker;
+
+	function initialize() {
+		myLatlng = new google.maps.LatLng(37.397802, -121.890288);
+
+		var mapOptions = {
+			zoom: 13,
+			center: myLatlng,
+			mapTypeId: google.maps.MapTypeId.ROADMAP,
+			scrollwheel: false,
+			draggable: false
+		};
+		map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);
+
+		var contentString = '<p>123 My Street, Codeon City, CA 4567</p>';
+
+		var infowindow = new google.maps.InfoWindow({
+			content: contentString
+		});
+
+		marker = new google.maps.Marker({
+			position: myLatlng,
+			map: map,
+			title: 'Marker'
+		});
+
+		google.maps.event.addListener(marker, 'click', function () {
+			infowindow.open(map, marker);
+		});
+	}
+
+	google.maps.event.addDomListener(window, 'load', initialize);
+</script>
+
+
+</body>
 </html>
