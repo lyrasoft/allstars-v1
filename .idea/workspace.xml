@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96551331-1eb6-49a7-a24c-ef6d1ca600cf" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.vaseman/layouts/_global/html.blade.php" afterPath="$PROJECT_DIR$/.vaseman/layouts/_global/html.blade.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plans/a.html" afterPath="$PROJECT_DIR$/plans/a.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plans/all.html" afterPath="$PROJECT_DIR$/plans/all.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plans/b.html" afterPath="$PROJECT_DIR$/plans/b.html" />
@@ -43,8 +43,8 @@
       <file leaf-file-name="html.blade.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.vaseman/layouts/_global/html.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="10" lean-forward="false" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+            <state relative-caret-position="285">
+              <caret line="15" column="134" lean-forward="false" selection-start-line="15" selection-start-column="134" selection-end-line="15" selection-end-column="134" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -678,12 +678,12 @@
       <workItem from="1483176603060" duration="2922000" />
       <workItem from="1483236744046" duration="127000" />
       <workItem from="1484739209134" duration="31224000" />
-      <workItem from="1484878939335" duration="6878000" />
+      <workItem from="1484878939335" duration="6949000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43596000" />
+    <option name="totallyTimeSpent" value="43667000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="37" y="30" width="1855" height="984" extended-state="0" />
@@ -1087,8 +1087,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.vaseman/layouts/_global/html.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="10" lean-forward="false" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        <state relative-caret-position="285">
+          <caret line="15" column="134" lean-forward="false" selection-start-line="15" selection-start-column="134" selection-end-line="15" selection-end-column="134" />
           <folding>
             <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
