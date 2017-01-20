@@ -1320,7 +1320,7 @@ our work section
   padding: 15px 0; }
 
 .price-desc p {
-  color: #333;
+  /*color: #333;*/
   line-height: 2.5; }
 
 .price-join {

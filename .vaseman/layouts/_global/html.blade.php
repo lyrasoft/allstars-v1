@@ -38,8 +38,8 @@
     <script src="{{ $uri['media'] }}js/respond.min.js"></script>
     <![endif]-->
 </head>
-<body data-spy="scroll" data-target="#navigation" data-offset="80">
-<section id="navigation" class="fixed-navigation">
+<body data-spy="scroll" data-target="#navigation" data-offset="80" class="{{ $config['home'] ? 'home' : 'not-home' }}">
+<section id="navigation" class="{{ $config['home'] ? 'fixed-navigation' : '' }}">
     <div class="navbar navbar-default navbar-static-top navbar-transparent" role="navigation">
         <div class="container">
             <div class="navbar-header">
@@ -49,59 +49,29 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="{{ $uri['base'] }}">Allstars</a>
+                <a class="navbar-brand" href="{{ $uri['base'] }}">
+                    <img class="logo-img" style="margin-top: -28px;" src="{{ $uri['media'] }}img/global/logo-horz.png" alt="LOGO">
+                </a>
             </div>
             <div class="navbar-collapse collapse">
 
                 <ul class="nav navbar-nav navbar-right scrollto">
-                    <li><a href="#home">Home</a></li>
-                    <li><a href="#about">About</a></li>
-                    <li><a href="#services">Services</a></li>
-                    <li><a href="#work">Work</a></li>
-
+                    <li><a href="{{ $uri['base'] }}#home">首頁</a></li>
+                    <li><a href="{{ $uri['base'] }}#about">關於我們</a></li>
+                    <li><a href="{{ $uri['base'] }}#services">功能特色</a></li>
+                    <li><a href="{{ $uri['base'] }}#pricing">網站方案</a></li>
                     <li class="dropdown">
-                        <span data-toggle="dropdown" class="dropdown-toggle js-activated">Pages <b class="caret"></b></span>
+                        <span data-toggle="dropdown" class="dropdown-toggle js-activated">方案細節 <b class="caret"></b></span>
                         <ul class="dropdown-menu">
-                            <li><a href="blog-list.html">Blog List</a></li>
-                            <li><a href="blog-post.html">Blog Post</a></li>
-                            <li><a href="portfolio-3.html">Portfolio 3 columns</a></li>
-                            <li><a href="portfolio-full.html">Portfolio Full width</a></li>
-                            <li><a href="portfolio-masonry.html">Portfolio Masonry</a></li>
-                            <li><a href="single-work.html">Portfolio Single</a></li>
-                            <li><a href="soon.html">Coming Soon</a></li>
-                            <li class="dropdown-submenu">
-                                <a tabindex="-1" href="#">Third level Menu</a>
-                                <ul class="dropdown-menu">
-                                    <li><a tabindex="-1" href="#">Second level</a></li>
-                                    <li class="dropdown-submenu">
-                                        <a href="#">Even More..</a>
-                                        <ul class="dropdown-menu">
-                                            <li><a href="#">3rd level</a></li>
-                                            <li><a href="#">3rd level</a></li>
-                                        </ul>
-                                    </li>
-                                    <li><a href="#">Second level</a></li>
-                                    <li><a href="#">Second level</a></li>
-                                </ul>
-                            </li>
+                            <li><a href="{{ $uri['base'] }}plans/all.html">方案比較</a></li>
+                            <li><a href="{{ $uri['base'] }}plans/a.html">A 微型企業啟動方案</a></li>
+                            <li><a href="{{ $uri['base'] }}plans/b.html">B 中小企業形象方案</a></li>
+                            <li><a href="{{ $uri['base'] }}plans/c.html">C 多功能國際化方案</a></li>
+                            <li><a href="{{ $uri['base'] }}plans/d.html">D 旗艦級客製化方案</a></li>
                         </ul>
                     </li>
-                    <li><a href="#pricing">Pricing</a></li>
-                    <li><a href="#contact">Contact</a></li>
-                    <li class="dropdown">
-                        <span data-toggle="dropdown" class="dropdown-toggle js-activated">Demos <b class="caret"></b></span>
-                        <ul class="dropdown-menu">
-                            <li><a href="demo-default.html">Slider revolution</a></li>
-                            <li><a href="video-slider.html">Slider Video</a></li>
-                            <li><a href="fullscreen-parallax-bg-demo.html">Full screen parallax</a></li>
-                            <li><a href="demo-video-bg.html">Video background</a></li>
-
-                            <li><a href="transparent-header-demo.html">Header transparent</a></li>
-                            <li><a href="soon.html">Coming Soon</a></li>
-                            <li><a href="fullscreen-nav.html">Full screen menu</a></li>
-                        </ul>
-                    </li>
-
+                    <li><a href="{{ $uri['base'] }}#work">成功案例</a></li>
+                    <li><a href="{{ $uri['base'] }}#contact">聯絡我們</a></li>
                 </ul>
 
             </div><!--/.nav-collapse -->
@@ -117,13 +87,13 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6 col-sm-6 copyright">
-                <span>&copy;2014.Design_mylife. All right reserved</span>
+                <span>&copy;{{ gmdate('Y') }}. Allstars. All right reserved</span>
             </div>
             <div class="col-md-6 col-sm-6 footer-nav">
                 <ul class="list-inline">
-                    <li><a href="demo-default.html">Home</a></li>
-                    <li><a href="blog-list.html">Latest news</a></li>
-                    <li><a href="typography.html">Typography</a></li>
+                    <li><a href="#">Home</a></li>
+                    {{--<li><a href="blog-list.html">Latest news</a></li>--}}
+                    {{--<li><a href="typography.html">Typography</a></li>--}}
                 </ul>
             </div>
         </div>
@@ -162,44 +132,8 @@
 <script src="{{ $uri['media'] }}js/revolution-custom.js" type="text/javascript"></script>
 <script src="{{ $uri['media'] }}js/isotope-custom.js" type="text/javascript"></script>
 <script src="{{ $uri['media'] }}js/pace.min.js" type="text/javascript"></script>
-<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=true"></script>
-<script type="text/javascript">
-	var myLatlng;
-	var map;
-	var marker;
 
-	function initialize() {
-		myLatlng = new google.maps.LatLng(37.397802, -121.890288);
-
-		var mapOptions = {
-			zoom: 13,
-			center: myLatlng,
-			mapTypeId: google.maps.MapTypeId.ROADMAP,
-			scrollwheel: false,
-			draggable: false
-		};
-		map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);
-
-		var contentString = '<p>123 My Street, Codeon City, CA 4567</p>';
-
-		var infowindow = new google.maps.InfoWindow({
-			content: contentString
-		});
-
-		marker = new google.maps.Marker({
-			position: myLatlng,
-			map: map,
-			title: 'Marker'
-		});
-
-		google.maps.event.addListener(marker, 'click', function () {
-			infowindow.open(map, marker);
-		});
-	}
-
-	google.maps.event.addDomListener(window, 'load', initialize);
-</script>
-
+@yield('script')
 
 </body>
 </html>

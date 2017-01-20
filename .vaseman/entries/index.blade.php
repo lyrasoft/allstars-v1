@@ -16,6 +16,6 @@ home: true
 
 @include('home.contact')
 
-<div id="map-canvas" style="width:100%; height: 350px;"></div>
+@include('home.map')
 
 @include('home.contact-2')

@@ -47,7 +47,7 @@
                     data-endelementdelay="0.1"
                     data-endspeed="300"
                     style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;">
-                    Creative codeon
+                    啟動事業的第一步
                 </div>
                 <!-- Home Subheading -->
                 <div class="tp-caption ken-burns-cap sft fadeout"
@@ -62,7 +62,7 @@
                     data-endelementdelay="0.1"
                     data-endspeed="300"
                     style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;">
-                    Made with love from top to bottom
+                    像火箭一樣直達天際
                 </div>
                 <!-- Home Button -->
                 <div class="tp-caption home-button sft fadeout"
@@ -79,8 +79,8 @@
                     style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;">
                     <div class="rev-buttons scrollto">
 
-                        <a href="#work" class="btn btn-theme-color btn-lg">
-                            Our Portfolio
+                        <a href="#about" class="btn btn-theme-color btn-lg">
+                            了解我們的網站特色
                         </a>
 
                     </div>
@@ -132,7 +132,7 @@
                     data-endelementdelay="0.1"
                     data-endspeed="300"
                     style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;">
-                    Super coders
+                    規格化網站方案
                 </div>
                 <!-- Home Subheading -->
                 <div class="tp-caption ken-burns-cap sft fadeout"
@@ -147,7 +147,7 @@
                     data-endelementdelay="0.1"
                     data-endspeed="300"
                     style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;">
-                    WORDPRESS · PHP · TEMPLATE DESIGN · PSD DESIGN
+                    透明化價格與任選附加元件
                 </div>
                 <!-- Home Button -->
                 <div class="tp-caption rev-buttons sft fadeout"
@@ -164,8 +164,8 @@
                     style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;">
                     <div class="rev-buttons scrollto">
 
-                        <a href="#about" class="btn btn-theme-color btn-lg">
-                            About us
+                        <a href="#pricing" class="btn btn-theme-color btn-lg">
+                            觀看網站方案
                         </a>
 
                     </div>
@@ -175,7 +175,5 @@
         </ul>
 
     </div>
-
-
 
 </div>	<!--video slider-->

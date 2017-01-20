@@ -22,7 +22,7 @@
                 <div class="portfolio-box iso-call work-col-3">
                     @foreach ($works as $work)
                         <div class="project-post {{ $work->tags }}">
-                            <a href="{{ $work->link }}">
+                            <a href="{{ $work->link ? : 'javscript:void(0)' }}">
                                 <div class="image-wrapper">
                                     <img src="{{ $work->img }}" class="img-responsive" alt="{{ $work->title }}">
                                     <div class="image-overlay">
@@ -39,131 +39,6 @@
                             </div><!--.work-desc-->
                         </div><!--project post-->
                     @endforeach
-
-                    {{--<div class="project-post web-design">--}}
-                        {{--<a href="http://demo.the-allstars.com/activity/">--}}
-                            {{--<div class="image-wrapper">--}}
-                                {{--<img src="http://i.imgur.com/yMbSt3S.jpg" class="img-responsive" alt="work-1">--}}
-                                {{--<div class="image-overlay">--}}
-                                    {{--<p>--}}
-                                        {{--View Detail--}}
-                                    {{--</p>--}}
-                                {{--</div><!--.image-overlay-->--}}
-                            {{--</div><!--.image-wrapper-->--}}
-                        {{--</a>--}}
-                        {{--<div class="work-sesc">--}}
-                            {{--<p>--}}
-                                {{--喵X旺旺大集合 - 寵物展--}}
-                            {{--</p>--}}
-                        {{--</div><!--.work-desc-->--}}
-                    {{--</div><!--project post-->--}}
-                    {{--<div class="project-post web-design">--}}
-                        {{--<a href="http://demo.the-allstars.com/school/">--}}
-                            {{--<div class="image-wrapper">--}}
-                                {{--<img src="http://i.imgur.com/Adb1UF1.jpg" class="img-responsive" alt="work-1">--}}
-                                {{--<div class="image-overlay">--}}
-                                    {{--<p>--}}
-                                        {{--View Detail--}}
-                                    {{--</p>--}}
-                                {{--</div><!--.image-overlay-->--}}
-                            {{--</div><!--.image-wrapper-->--}}
-                        {{--</a>--}}
-                        {{--<div class="work-sesc">--}}
-                            {{--<p>--}}
-                                {{--星辰大學總務處--}}
-                            {{--</p>--}}
-                        {{--</div><!--.work-desc-->--}}
-                    {{--</div><!--project post-->--}}
-
-                    {{--<div class="project-post web-design development">--}}
-                        {{--<a href="javascript:void(0);">--}}
-                            {{--<div class="image-wrapper">--}}
-                                {{--<img src="http://i.imgur.com/BApK84w.jpg" class="img-responsive" alt="work-1">--}}
-                                {{--<div class="image-overlay">--}}
-                                    {{--<p>--}}
-                                        {{--View Detail--}}
-                                    {{--</p>--}}
-                                {{--</div><!--.image-overlay-->--}}
-                            {{--</div><!--.image-wrapper-->--}}
-                        {{--</a>--}}
-                        {{--<div class="work-sesc">--}}
-                            {{--<p>--}}
-                                {{--教育管理平台開發--}}
-                            {{--</p>--}}
-                        {{--</div><!--.work-desc-->--}}
-                    {{--</div><!--project post-->--}}
-                    {{--<div class="project-post app development">--}}
-                        {{--<a href="javascript:void(0);">--}}
-                            {{--<div class="image-wrapper">--}}
-                                {{--<img src="http://i.imgur.com/KSBemAJ.jpg" class="img-responsive" alt="work-1">--}}
-                                {{--<div class="image-overlay">--}}
-                                    {{--<p>--}}
-                                        {{--View Detail--}}
-                                    {{--</p>--}}
-                                {{--</div><!--.image-overlay-->--}}
-                            {{--</div><!--.image-wrapper-->--}}
-                        {{--</a>--}}
-                        {{--<div class="work-sesc">--}}
-                            {{--<p>--}}
-                                {{--教育 App 設計開發--}}
-                            {{--</p>--}}
-                        {{--</div><!--.work-desc-->--}}
-                    {{--</div><!--project post-->--}}
-
-                    {{--<div class="project-post web-design">--}}
-                        {{--<a href="http://winsoundstudio.com/">--}}
-                            {{--<div class="image-wrapper">--}}
-                                {{--<img src="http://i.imgur.com/lxbZUJp.jpg" class="img-responsive" alt="work-1">--}}
-                                {{--<div class="image-overlay">--}}
-                                    {{--<p>--}}
-                                        {{--View Detail--}}
-                                    {{--</p>--}}
-                                {{--</div><!--.image-overlay-->--}}
-                            {{--</div><!--.image-wrapper-->--}}
-                        {{--</a>--}}
-                        {{--<div class="work-sesc">--}}
-                            {{--<p>--}}
-                                {{--WinsoundStudio--}}
-                            {{--</p>--}}
-                        {{--</div><!--.work-desc-->--}}
-                    {{--</div><!--project post-->--}}
-
-
-                    {{--<div class="project-post   web-design">--}}
-                        {{--<a href="javascript:void(0);">--}}
-                            {{--<div class="image-wrapper">--}}
-                                {{--<img src="http://i.imgur.com/jxdPOCs.jpg" class="img-responsive" alt="work-1">--}}
-                                {{--<div class="image-overlay">--}}
-                                    {{--<p>--}}
-                                        {{--View Detail--}}
-                                    {{--</p>--}}
-                                {{--</div><!--.image-overlay-->--}}
-                            {{--</div><!--.image-wrapper-->--}}
-                        {{--</a>--}}
-                        {{--<div class="work-sesc">--}}
-                            {{--<p>--}}
-                                {{--師大數位影音學程--}}
-                            {{--</p>--}}
-                        {{--</div><!--.work-desc-->--}}
-                    {{--</div><!--project post-->--}}
-
-                    {{--<div class="project-post branding">--}}
-                        {{--<a href="javascript:void(0)">--}}
-                            {{--<div class="image-wrapper">--}}
-                                {{--<img src="http://i.imgur.com/0VkrwSz.jpg" class="img-responsive" alt="work-1">--}}
-                                {{--<div class="image-overlay">--}}
-                                    {{--<p>--}}
-                                        {{--View Detail--}}
-                                    {{--</p>--}}
-                                {{--</div><!--.image-overlay-->--}}
-                            {{--</div><!--.image-wrapper-->--}}
-                        {{--</a>--}}
-                        {{--<div class="work-sesc">--}}
-                            {{--<p>--}}
-                                {{--樂活動物協會--}}
-                            {{--</p>--}}
-                        {{--</div><!--.work-desc-->--}}
-                    {{--</div><!--project post-->--}}
                 </div>
             </div>
         </div><!--container-->
