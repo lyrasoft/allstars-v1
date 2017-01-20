@@ -37,6 +37,9 @@ ul.tags li a {
   margin: 5px;
   text-transform: uppercase;
 }
+.navbar-default .navbar-nav > li > a {
+  font-size: 16px;
+}
 body.not-home .navbar {
   margin-bottom: 0;
 }
