@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96551331-1eb6-49a7-a24c-ef6d1ca600cf" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.vaseman/media/css/main.css" afterPath="$PROJECT_DIR$/.vaseman/media/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.vaseman/media/css/main.less" afterPath="$PROJECT_DIR$/.vaseman/media/css/main.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/css/main.css" afterPath="$PROJECT_DIR$/media/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/css/main.less" afterPath="$PROJECT_DIR$/media/css/main.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.vaseman/layouts/_global/html.blade.php" afterPath="$PROJECT_DIR$/.vaseman/layouts/_global/html.blade.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -38,11 +35,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="html.blade.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="html.blade.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.vaseman/layouts/_global/html.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-380">
-              <caret line="19" column="24" lean-forward="false" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+            <state relative-caret-position="396">
+              <caret line="150" column="42" lean-forward="true" selection-start-line="150" selection-start-column="42" selection-end-line="150" selection-end-column="42" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -208,11 +205,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.less" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.less" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.vaseman/media/css/main.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="45" column="1" lean-forward="false" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
+            <state relative-caret-position="209">
+              <caret line="41" column="1" lean-forward="true" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -309,11 +306,11 @@
         <option value="$PROJECT_DIR$/.vaseman/entries/plans/b.blade.php" />
         <option value="$PROJECT_DIR$/.vaseman/entries/plans/c.blade.php" />
         <option value="$PROJECT_DIR$/.vaseman/entries/plans/d.blade.php" />
-        <option value="$PROJECT_DIR$/.vaseman/layouts/_global/html.blade.php" />
         <option value="$PROJECT_DIR$/.vaseman/layouts/home/pricing.blade.php" />
         <option value="$PROJECT_DIR$/.vaseman/layouts/home/contact.blade.php" />
         <option value="$PROJECT_DIR$/.vaseman/media/js/contact_me.js" />
         <option value="$PROJECT_DIR$/.vaseman/media/css/main.less" />
+        <option value="$PROJECT_DIR$/.vaseman/layouts/_global/html.blade.php" />
       </list>
     </option>
   </component>
@@ -793,12 +790,12 @@
       <workItem from="1483176603060" duration="2922000" />
       <workItem from="1483236744046" duration="127000" />
       <workItem from="1484739209134" duration="31224000" />
-      <workItem from="1484878939335" duration="9480000" />
+      <workItem from="1484878939335" duration="10098000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46198000" />
+    <option name="totallyTimeSpent" value="46816000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="37" y="30" width="1855" height="984" extended-state="0" />
@@ -1202,21 +1199,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.vaseman/layouts/_global/html.blade.php">
+    <entry file="file://$PROJECT_DIR$/.vaseman/media/css/main.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-380">
-          <caret line="19" column="24" lean-forward="false" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="209">
+          <caret line="41" column="1" lean-forward="true" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.vaseman/media/css/main.less">
+    <entry file="file://$PROJECT_DIR$/.vaseman/layouts/_global/html.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="45" column="1" lean-forward="false" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
-          <folding />
+        <state relative-caret-position="396">
+          <caret line="150" column="42" lean-forward="true" selection-start-line="150" selection-start-column="42" selection-end-line="150" selection-end-column="42" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
