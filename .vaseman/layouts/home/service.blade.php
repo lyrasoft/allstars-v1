@@ -27,9 +27,9 @@
 
                 <div class="col-md-2 wow animated fadeInTop text-center">
                     <div class="feature-icon">
-                        <i class="fa fa-clone"></i>
+                        <i class="fa fa-search"></i>
                     </div>
-                    <h5>自動備援</h5>
+                    <h5>SEO 網站優化</h5>
                 </div>
 
                 <div class="col-md-2 wow animated fadeInTop text-center">
