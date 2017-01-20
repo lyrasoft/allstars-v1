@@ -40,7 +40,8 @@ meta:
                     <h2>$29,000</h2>
 
                     <div class="xs-pt-30 xs-pb-30">
-                        <a href="http://demo.the-allstars.com/farm/" target="_blank" class="btn btn-lg btn-theme-color">觀看範例</a>
+                        <a href="{{ $uri['base'] }}plans/a.html" class="btn btn-warning btn-lg">簡介</a>
+                        <a href="http://demo.the-allstars.com/farm/" target="_blank" class="btn btn-lg btn-theme-color">範例</a>
                     </div>
                 </div>
             </div><!--pricing wrapper-->
@@ -76,7 +77,8 @@ meta:
                     <h2>$49,000</h2>
 
                     <div class="xs-pt-30 xs-pb-30">
-                        <a href="http://demo.the-allstars.com/school/" target="_blank" class="btn btn-lg btn-theme-color">觀看範例</a>
+                        <a href="{{ $uri['base'] }}plans/b.html" class="btn btn-warning btn-lg">簡介</a>
+                        <a href="http://demo.the-allstars.com/school/" target="_blank" class="btn btn-lg btn-theme-color">範例</a>
                     </div>
                 </div>
             </div><!--pricing wrapper-->
@@ -112,7 +114,8 @@ meta:
                     <h2>$69,000</h2>
 
                     <div class="xs-pt-30 xs-pb-30">
-                        <a href="http://demo.the-allstars.com/activity/" target="_blank" class="btn btn-lg btn-theme-color">觀看範例</a>
+                        <a href="{{ $uri['base'] }}plans/c.html" class="btn btn-warning btn-lg">簡介</a>
+                        <a href="http://demo.the-allstars.com/activity/" target="_blank" class="btn btn-lg btn-theme-color">範例</a>
                     </div>
                 </div>
             </div><!--pricing wrapper-->
@@ -148,7 +151,8 @@ meta:
                     <h2 style="font-size: 2.3em;">$100,000<small style="color: #9eca45;">起</small></h2>
 
                     <div class="xs-pt-30 xs-pb-30">
-                        <a href="javascript:void(0)" class="btn btn-lg btn-theme-color">觀看範例</a>
+                        <a href="{{ $uri['base'] }}plans/d.html" class="btn btn-warning btn-lg">簡介</a>
+                        <a href="javascript:void(0)" class="btn btn-lg btn-theme-color">範例</a>
                     </div>
                 </div>
             </div><!--pricing wrapper-->
