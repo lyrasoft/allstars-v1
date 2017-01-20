@@ -25,7 +25,7 @@
                             </div>
 
                             <div class="price-join">
-                                <a href="#" class="btn btn-lg btn-theme-color">Choose plan</a>
+                                <a href="{{ $uri['base'] }}plans/a.html" class="btn btn-lg btn-theme-color">了解詳情</a>
                             </div>
                         </div>
                     </div><!--pricing wrapper-->
@@ -45,7 +45,7 @@
                             </div>
 
                             <div class="price-join">
-                                <a href="#" class="btn btn-lg btn-theme-color">Choose plan</a>
+                                <a href="{{ $uri['base'] }}plans/b.html" class="btn btn-lg btn-theme-color">了解詳情</a>
                             </div>
                         </div>
                     </div><!--pricing wrapper-->
@@ -65,7 +65,7 @@
                             </div>
 
                             <div class="price-join">
-                                <a href="#" class="btn btn-lg btn-theme-color">Choose plan</a>
+                                <a href="{{ $uri['base'] }}plans/c.html" class="btn btn-lg btn-theme-color">了解詳情</a>
                             </div>
                         </div>
                     </div><!--pricing wrapper-->
@@ -85,7 +85,7 @@
                             </div>
 
                             <div class="price-join">
-                                <a href="#" class="btn btn-lg btn-theme-color">Choose plan</a>
+                                <a href="{{ $uri['base'] }}plans/d.html" class="btn btn-lg btn-theme-color">了解詳情</a>
                             </div>
                         </div>
                     </div><!--pricing wrapper-->
@@ -94,7 +94,7 @@
 
             <div class="to-price-detail xs-mt-50 xs-mb-30">
                 <p class="text-center">
-                    <a href="#" class="btn btn-theme-color btn-hero">瞭解更完整的方案細節與功能元件</a>
+                    <a href="{{ $uri['base'] }}plans/all.html" class="btn btn-theme-color btn-hero">瞭解更完整的方案細節與功能元件</a>
                 </p>
             </div>
         </div>
