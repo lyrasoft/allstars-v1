@@ -17,10 +17,10 @@ $(function() {
             var data = {
 	            name: $("input#name").val(),
 	            email: $("input#name").val(),
-	            message: $("input#name").val(),
 	            plan: $("input#plan").val(),
 	            company: $("input#company").val(),
-	            components: coms
+	            components: coms,
+	            message: $("textarea#message").val(),
             };
             var firstName = data.name; // For Success/Failure Message
             // Check for white space in name for Success/Fail message
