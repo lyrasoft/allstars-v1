@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96551331-1eb6-49a7-a24c-ef6d1ca600cf" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CNAME" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.vaseman/entries/index.blade.php" afterPath="$PROJECT_DIR$/.vaseman/entries/index.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.vaseman/entries/plans/a.blade.php" afterPath="$PROJECT_DIR$/.vaseman/entries/plans/a.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.vaseman/entries/plans/all.blade.php" afterPath="$PROJECT_DIR$/.vaseman/entries/plans/all.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.vaseman/entries/plans/b.blade.php" afterPath="$PROJECT_DIR$/.vaseman/entries/plans/b.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.vaseman/entries/plans/c.blade.php" afterPath="$PROJECT_DIR$/.vaseman/entries/plans/c.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.vaseman/entries/plans/d.blade.php" afterPath="$PROJECT_DIR$/.vaseman/entries/plans/d.blade.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.vaseman/layouts/_global/html.blade.php" afterPath="$PROJECT_DIR$/.vaseman/layouts/_global/html.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.vaseman/media/css/main.css" afterPath="$PROJECT_DIR$/.vaseman/media/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/css/main.css" afterPath="$PROJECT_DIR$/media/css/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plans/a.html" afterPath="$PROJECT_DIR$/plans/a.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plans/all.html" afterPath="$PROJECT_DIR$/plans/all.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plans/b.html" afterPath="$PROJECT_DIR$/plans/b.html" />
@@ -51,11 +40,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="html.blade.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="html.blade.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.vaseman/layouts/_global/html.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" column="68" lean-forward="false" selection-start-line="13" selection-start-column="68" selection-end-line="13" selection-end-column="68" />
+            <state relative-caret-position="285">
+              <caret line="15" column="79" lean-forward="false" selection-start-line="15" selection-start-column="79" selection-end-line="15" selection-end-column="79" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -103,11 +92,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="d.blade.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="d.blade.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.vaseman/entries/plans/d.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="86" lean-forward="false" selection-start-line="5" selection-start-column="86" selection-end-line="5" selection-end-column="86" />
+            <state relative-caret-position="171">
+              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -283,13 +272,13 @@
         <option value="$PROJECT_DIR$/.vaseman/layouts/_global/plan-layout.blade.php" />
         <option value="$PROJECT_DIR$/.vaseman/media/css/main.less" />
         <option value="$PROJECT_DIR$/CNAME" />
-        <option value="$PROJECT_DIR$/.vaseman/layouts/_global/html.blade.php" />
         <option value="$PROJECT_DIR$/.vaseman/entries/index.blade.php" />
         <option value="$PROJECT_DIR$/.vaseman/entries/plans/all.blade.php" />
         <option value="$PROJECT_DIR$/.vaseman/entries/plans/a.blade.php" />
         <option value="$PROJECT_DIR$/.vaseman/entries/plans/b.blade.php" />
         <option value="$PROJECT_DIR$/.vaseman/entries/plans/c.blade.php" />
         <option value="$PROJECT_DIR$/.vaseman/entries/plans/d.blade.php" />
+        <option value="$PROJECT_DIR$/.vaseman/layouts/_global/html.blade.php" />
       </list>
     </option>
   </component>
@@ -689,12 +678,12 @@
       <workItem from="1483176603060" duration="2922000" />
       <workItem from="1483236744046" duration="127000" />
       <workItem from="1484739209134" duration="31224000" />
-      <workItem from="1484878939335" duration="6622000" />
+      <workItem from="1484878939335" duration="6760000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43340000" />
+    <option name="totallyTimeSpent" value="43478000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="37" y="30" width="1855" height="984" extended-state="0" />
@@ -1040,16 +1029,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.vaseman/layouts/_global/html.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="68" lean-forward="false" selection-start-line="13" selection-start-column="68" selection-end-line="13" selection-end-column="68" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.vaseman/entries/index.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
@@ -1100,9 +1079,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.vaseman/entries/plans/d.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="86" lean-forward="false" selection-start-line="5" selection-start-column="86" selection-end-line="5" selection-end-column="86" />
+        <state relative-caret-position="171">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.vaseman/layouts/_global/html.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="79" lean-forward="false" selection-start-line="15" selection-start-column="79" selection-end-line="15" selection-end-column="79" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

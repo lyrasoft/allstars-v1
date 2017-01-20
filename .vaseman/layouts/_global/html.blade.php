@@ -13,7 +13,7 @@
 
     <meta name="description" content="{{ $config['meta.desc'] }}" />
     <meta property="og:image" content="{{ $config['meta.image'] }}"/>
-    <meta property="og:title" content="{{ $config['title'] }}"/>
+    <meta property="og:title" content="{{ $config['home'] ? $config['title'] : $config['project.name'] }}"/>
     <meta property="og:site_name" content="{{ $config['project.name'] }}"/>
     <meta property="og:description" content="{{ $config['meta.desc'] }}"/>
 
