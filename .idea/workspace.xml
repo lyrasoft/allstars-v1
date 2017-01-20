@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="96551331-1eb6-49a7-a24c-ef6d1ca600cf" name="Default" comment="" />
+    <list default="true" id="96551331-1eb6-49a7-a24c-ef6d1ca600cf" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.vaseman/media/css/main.css" afterPath="$PROJECT_DIR$/.vaseman/media/css/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.vaseman/media/css/main.less" afterPath="$PROJECT_DIR$/.vaseman/media/css/main.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/css/main.css" afterPath="$PROJECT_DIR$/media/css/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/css/main.less" afterPath="$PROJECT_DIR$/media/css/main.less" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -206,8 +211,8 @@
       <file leaf-file-name="main.less" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.vaseman/media/css/main.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="40" column="30" lean-forward="true" selection-start-line="40" selection-start-column="30" selection-end-line="40" selection-end-column="30" />
+            <state relative-caret-position="285">
+              <caret line="45" column="1" lean-forward="false" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -788,12 +793,12 @@
       <workItem from="1483176603060" duration="2922000" />
       <workItem from="1483236744046" duration="127000" />
       <workItem from="1484739209134" duration="31224000" />
-      <workItem from="1484878939335" duration="9412000" />
+      <workItem from="1484878939335" duration="9480000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46130000" />
+    <option name="totallyTimeSpent" value="46198000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="37" y="30" width="1855" height="984" extended-state="0" />
@@ -1209,8 +1214,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.vaseman/media/css/main.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="40" column="30" lean-forward="true" selection-start-line="40" selection-start-column="30" selection-end-line="40" selection-end-column="30" />
+        <state relative-caret-position="285">
+          <caret line="45" column="1" lean-forward="false" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
           <folding />
         </state>
       </provider>
