@@ -209,7 +209,9 @@ meta:
         <div id="extensions" class="addon-section">
             <h3 class="xs-mb-30">附加功能元件</h3>
 
-            @include('plans/extensions')
+            <div class="table-responsive">
+                @include('plans/extensions')
+            </div>
 
             <div class="text-right scrollto">
                 <a href="#addon-list">
@@ -224,7 +226,9 @@ meta:
 
             <p>購物車功能為獨立套件，不屬於附加功能元件項目之中</p>
 
-            @include('plans/shop')
+            <div class="table-responsive">
+                @include('plans/shop')
+            </div>
 
             <div class="text-right scrollto">
                 <a href="#addon-list">
@@ -237,7 +241,9 @@ meta:
         <div id="multilang" class="addon-section xs-mt-50">
             <h3 class="xs-mb-30">多國語言功能</h3>
 
-            @include('plans/multilang')
+            <div class="table-responsive">
+                @include('plans/multilang')
+            </div>
 
             <div class="text-right scrollto">
                 <a href="#addon-list">
@@ -250,7 +256,9 @@ meta:
         <div id="host" class="addon-section xs-mt-50">
             <h3 class="xs-mb-30">主機與網域</h3>
 
-            @include('plans/host')
+            <div class="table-responsive">
+                @include('plans/host')
+            </div>
 
             <div class="text-right scrollto">
                 <a href="#addon-list">

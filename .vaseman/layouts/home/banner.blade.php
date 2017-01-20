@@ -3,7 +3,7 @@
     <div class="tp-banner-video">
         <ul>
             <!-- SLIDE  -->
-            <li data-transition="fade" data-slotamount="1" data-masterspeed="1000" data-thumb="img/star-cover.jpg"  data-saveperformance="off"  data-title="Quick Results">
+            <li data-transition="fade" data-slotamount="1" data-masterspeed="1000" data-thumb="{{ $uri['media'] }}img/star-cover.jpg"  data-saveperformance="off"  data-title="Quick Results">
                 <!-- MAIN IMAGE -->
                 <img src="{{ $uri['media'] }}img/star-cover.jpg"  alt="video_typing_cover"  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat">
                 <!-- LAYERS -->
@@ -88,7 +88,7 @@
             </li>
 
             <!-- SLIDE  -->
-            <li data-transition="slidehorizontal" data-slotamount="1" data-masterspeed="1000" data-thumb="img/typing-cover.jpg"  data-saveperformance="off"  data-title="Quick Results">
+            <li data-transition="slidehorizontal" data-slotamount="1" data-masterspeed="1000" data-thumb="{{ $uri['media'] }}img/typing-cover.jpg"  data-saveperformance="off"  data-title="Quick Results">
                 <!-- MAIN IMAGE -->
                 <img src="{{ $uri['media'] }}img/typing-cover.jpg"  alt="video_typing_cover"  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat">
                 <!-- LAYERS -->
