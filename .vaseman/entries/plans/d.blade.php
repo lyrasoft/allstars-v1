@@ -1,6 +1,9 @@
 ---
 layout: _global/plan-layout
 title: D 旗艦級客制化方案
+meta:
+    image: http://i.imgur.com/BApK84w.jpg
+    desc: 如果您覺得以上規格皆不符合您的需求，或者您對網站設計質感有更高的要求，希望能量身打造更有水準的形象首頁，我們也提供完全客制化的高規格服務，歡迎前來洽詢。
 ---
 
 <img class="img-responsive" src="http://i.imgur.com/BApK84w.jpg" alt="Preview">

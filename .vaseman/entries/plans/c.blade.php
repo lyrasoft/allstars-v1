@@ -1,6 +1,9 @@
 ---
 layout: _global/plan-layout
 title: C 多功能國際化方案
+meta:
+    image: http://i.imgur.com/yMbSt3S.jpg
+    desc: 更為強大的網站方案，無論您要多國語言的支持，或者您有大量產品，想要建置電子型錄、皆可選擇採用本方案來搭配，讓您的網站不只是門面，更能主動替您創造價值。
 ---
 
 <img class="img-responsive" src="http://i.imgur.com/yMbSt3S.jpg" alt="Preview">

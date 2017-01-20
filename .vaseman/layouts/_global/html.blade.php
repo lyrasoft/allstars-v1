@@ -10,6 +10,13 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <link href="{{ $uri['media'] }}img/favicon.png" rel="shortcut icon" type="image/vnd.microsoft.icon" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <meta name="description" content="{{ $config['meta.desc'] }}" />
+    <meta property="og:image" content="{{ $config['meta.image'] }}"/>
+    <meta property="og:title" content="{{ $config['title'] }}"/>
+    <meta property="og:site_name" content="{{ $config['project.name'] }}"/>
+    <meta property="og:description" content="{{ $config['meta.desc'] }}"/>
+
     <!--bootstrap css-->
     <link href="{{ $uri['media'] }}bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <!--custom css-->

@@ -1,6 +1,9 @@
 ---
 layout: _global/plan-layout
 title: A 微型企業啟動方案
+meta:
+    image: http://i.imgur.com/GfgiBhk.jpg
+    desc: 微型企業啟動方案適合剛成立的企業、個人工作室或小型攤商，在公司草創的情況下，於網路上提供一個入口，快速介紹自己， 讓消費者瞭解您可以提供的服務，得知店面地址，盡快促成第一筆交易，讓您的夢想用更快的速度起飛。
 ---
 
 <img class="img-responsive" src="http://i.imgur.com/GfgiBhk.jpg" alt="Preview">
