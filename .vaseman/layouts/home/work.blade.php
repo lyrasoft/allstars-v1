@@ -22,7 +22,7 @@
                 <div class="portfolio-box iso-call work-col-3">
                     @foreach ($works as $work)
                         <div class="project-post {{ $work->tags }}">
-                            <a href="{{ $work->link ? : 'javscript:void(0)' }}">
+                            <a href="{{ $work->link ? : 'javscript:void(0)' }}" {{ $work->link ? 'target="_blank"' : '' }}>
                                 <div class="image-wrapper">
                                     <img src="{{ $work->img }}" class="img-responsive" alt="{{ $work->title }}">
                                     <div class="image-overlay">
