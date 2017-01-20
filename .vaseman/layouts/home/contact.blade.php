@@ -114,7 +114,7 @@
                                             <div class="form-group">
                                                 <div class="checkbox">
                                                     <label style="color: #666;">
-                                                        <input name="components[]" value="{{ $component }}" type="checkbox"> {{ $component }}
+                                                        <input name="components[]" class="components-checkbox" value="{{ $component }}" type="checkbox"> {{ $component }}
                                                     </label>
                                                 </div>
                                             </div>
