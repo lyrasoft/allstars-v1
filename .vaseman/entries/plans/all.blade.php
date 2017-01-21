@@ -15,6 +15,7 @@ meta:
                     <h2>$29,000</h2>
                     <div class="price-desc">
                         <h4>共同規格</h4>
+                        <p>標準型版面 <small><a href="#price-details">[1]</a></small></p>
                         <p>RWD 手機支援</p>
                         <p>後台管理介面</p>
                         <p>FB 粉絲頁嵌入</p>
@@ -27,9 +28,9 @@ meta:
                         <hr />
 
                         <h4>差異規格</h4>
-                        <p class="text-danger">1 次修改調整次數 <small><a href="#price-details">[1]</a></small></p>
+                        <p class="text-danger">1 次修改調整次數 <small><a href="#price-details">[2]</a></small></p>
 
-                        <p class="text-danger">圖文排版 5 頁 <small><a href="#price-details">[2]</a></small></p>
+                        <p class="text-danger">圖文排版 5 頁 <small><a href="#price-details">[3]</a></small></p>
                         <p class="text-danger">首頁橫幅 1 張</p>
                         <p class="text-danger">簡易版聯絡表單</p>
                         <p class="text-danger"><i class="fa fa-times"></i></p>
@@ -53,6 +54,7 @@ meta:
                     <h2>$49,000</h2>
                     <div class="price-desc">
                         <h4>共同規格</h4>
+                        <p>標準型版面 <small><a href="#price-details">[1]</a></small></p>
                         <p>RWD 手機支援</p>
                         <p>後台管理介面</p>
                         <p>FB 粉絲頁嵌入</p>
@@ -65,9 +67,9 @@ meta:
                         <hr />
 
                         <h4>差異規格</h4>
-                        <p class="text-success">2 次修改調整次數 <small><a href="#price-details">[1]</a></small></p>
+                        <p class="text-success">2 次修改調整次數 <small><a href="#price-details">[2]</a></small></p>
 
-                        <p class="text-warning">圖文排版 10 頁 <small><a href="#price-details">[2]</a></small></p>
+                        <p class="text-warning">圖文排版 10 頁 <small><a href="#price-details">[3]</a></small></p>
                         <p class="text-warning">首頁橫幅 3 張</p>
                         <p class="text-success">進階版聯絡表單</p>
                         <p class="text-success">最新消息與部落格</p>
@@ -90,6 +92,7 @@ meta:
                     <h2>$69,000</h2>
                     <div class="price-desc">
                         <h4>共同規格</h4>
+                        <p>標準型版面 <small><a href="#price-details">[1]</a></small></p>
                         <p>RWD 手機支援</p>
                         <p>後台管理介面</p>
                         <p>FB 粉絲頁嵌入</p>
@@ -102,14 +105,14 @@ meta:
                         <hr />
 
                         <h4>差異規格</h4>
-                        <p class="text-success">2 次修改調整次數 <small><a href="#price-details">[1]</a></small></p>
+                        <p class="text-success">2 次修改調整次數 <small><a href="#price-details">[2]</a></small></p>
 
-                        <p class="text-success">圖文排版 15 頁 <small><a href="#price-details">[2]</a></small></p>
+                        <p class="text-success">圖文排版 15 頁 <small><a href="#price-details">[3]</a></small></p>
                         <p class="text-success">首頁橫幅 5 張</p>
                         <p class="text-success">進階版聯絡表單</p>
                         <p class="text-success">最新消息與部落格</p>
                         <p class="text-success">任選5種功能元件</p>
-                        <p class="text-success">雙語系 (中/英) <small><a href="#price-details">[3]</a></small></p>
+                        <p class="text-success">雙語系 (中/英) <small><a href="#price-details">[4]</a></small></p>
                     </div>
                     <h2>$69,000</h2>
 
@@ -127,6 +130,7 @@ meta:
                     <h2 style="font-size: 2.3em;">$100,000<small style="color: #9eca45;">起</small></h2>
                     <div class="price-desc">
                         <h4>共同規格</h4>
+                        <p>客製化版型</p>
                         <p>RWD 手機支援</p>
                         <p>後台管理介面</p>
                         <p>FB 粉絲頁嵌入</p>
@@ -161,6 +165,9 @@ meta:
 
     <div id="price-details" class="price-details">
         <ol>
+            <li class="scrollto">
+                採用星辰設計的專業標準化網站版型，簡單大方的設計可以清楚傳達網站資訊，規格化高，製作速度較快。若有需要客製化版型，請參考<a href="#other">客製化費用</a>。
+            </li>
             <li>
                 修改調整次數指的是網站完成後，可提供的調整修改機會。
             </li>
@@ -204,7 +211,7 @@ meta:
                 </li>
 
                 <li>
-                    <a href="#host">主機與網域</a>
+                    <a href="#other">其他</a>
                 </li>
             </ul>
         </div>
@@ -256,11 +263,11 @@ meta:
             </div>
         </div>
 
-        <div id="host" class="addon-section xs-mt-50">
-            <h3 class="xs-mb-30">主機與網域</h3>
+        <div id="other" class="addon-section xs-mt-50">
+            <h3 class="xs-mb-30">其他</h3>
 
             <div class="table-responsive">
-                @include('plans/host')
+                @include('plans/other')
             </div>
 
             <div class="text-right scrollto">
