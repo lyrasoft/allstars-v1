@@ -4,7 +4,7 @@
             <div class="col-md-offset-2 col-sm-4">
                 <div class="contact-col wow animated flipInY" data-wow-delay=".3s">
                     <i class="fa fa-phone"></i>
-                    <p>0975 228 233</p>
+                    <p>0975 823 893</p>
                 </div>
             </div>
             <div class="col-sm-4">
