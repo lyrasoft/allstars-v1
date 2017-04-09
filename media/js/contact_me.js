@@ -16,8 +16,9 @@ $(function() {
             // get values from FORM
             var data = {
 	            name: $("input#name").val(),
-	            email: $("input#name").val(),
-	            plan: $("input#plan").val(),
+	            email: $("input#email").val(),
+	            phone: $("input#phone").val(),
+	            plan: $("select#plan").val(),
 	            company: $("input#company").val(),
 	            components: coms,
 	            message: $("textarea#message").val(),

@@ -48,19 +48,30 @@
                                 <div class="col-md-6">
                                     <div class="row control-group">
                                         <div class="form-group col-xs-12 controls">
-                                            <label>考慮方案<span>*</span></label>
-                                            <select class="form-control" name="plan" id="plan">
-                                                <option value="A 微型企業啟動方案">A 微型企業啟動方案 - $29,000</option>
-                                                <option value="B 中小企業形象方案">B 中小企業形象方案 - $49,000</option>
-                                                <option value="C 多功能國際化方案">C 多功能國際化方案 - $69,000</option>
-                                                <option value="D 旗艦級客製化方案">D 旗艦級客製化方案 - $100,000 起</option>
-                                                <option value="合作洽詢">合作洽詢</option>
-                                            </select>
+                                            <label>電話</label>
+                                            <input type="text" class="form-control" placeholder="Phone" name="phone" id="phone">
                                             <p class="help-block"></p>
                                         </div>
                                     </div>
                                 </div>
                             </div>
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="row control-group">
+                                    <div class="form-group col-xs-12 controls">
+                                        <label>考慮方案<span>*</span></label>
+                                        <select class="form-control" name="plan" id="plan">
+                                            <option value="A 微型企業啟動方案">A 微型企業啟動方案 - $29,000</option>
+                                            <option value="B 中小企業形象方案">B 中小企業形象方案 - $49,000</option>
+                                            <option value="C 多功能國際化方案">C 多功能國際化方案 - $69,000</option>
+                                            <option value="D 旗艦級客製化方案">D 旗艦級客製化方案 - $100,000 起</option>
+                                            <option value="合作洽詢">合作洽詢</option>
+                                        </select>
+                                        <p class="help-block"></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                             <div class="row control-group">
                                 <div class="form-group col-xs-12 controls">
                                     <label>訊息<span>*</span></label>
