@@ -20,7 +20,7 @@
         };
         map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);
 
-        var contentString = '<p>105 八德路四段123號3樓</p>';
+        var contentString = '<p>106 大安區羅斯福路二段100號</p>';
 
         var infowindow = new google.maps.InfoWindow({
             content: contentString
