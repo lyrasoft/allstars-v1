@@ -29,8 +29,8 @@
                     style="z-index: 2;">
                     <video class="img-responsive" preload="none"
                         poster='{{ $uri['media'] }}img/star-cover.jpg'>
-                        <source src='https://ph2dwh.oloadcdn.net/dl/l/AcQrNUZI8HRFmMFo/zQC1PINj-hM/among_the_stars.mp4?mime=true' type='video/mp4' />
-                        <source src='https://1fhjlop.oloadcdn.net/dl/l/uh0xpIBcW93I7ryV/EApApwZTavo/among_the_stars.webm?mime=true' type='video/webm' />
+                        <source src='http://content.jwplatform.com/videos/jCugGS0T-LW4ESPDF.mp4' type='video/mp4' />
+                        {{--<source src='https://1fhjlop.oloadcdn.net/dl/l/uh0xpIBcW93I7ryV/EApApwZTavo/among_the_stars.webm?mime=true' type='video/webm' />--}}
                     </video>
                 </div>
 
@@ -114,8 +114,8 @@
                     style="z-index: 2;">
                     <video class="img-responsive" preload="none"
                         poster='{{ $uri['media'] }}img/typing-cover.jpg'>
-                        <source src='https://1fgqfmm.oloadcdn.net/dl/l/8ree_U9L905ggVtt/HhsvqTq4F-0/computer_typing.mp4?mime=true' type='video/mp4' />
-                        <source src='https://oqfnwr.oloadcdn.net/dl/l/EPEv8fLbwjKZxXz3/l0eBnS7maC4/computer_typing.webm?mime=truegit' type='video/webm' />
+                        <source src='http://content.jwplatform.com/videos/fgl8iTM9-LW4ESPDF.mp4' type='video/mp4' />
+                        {{--<source src='https://oqfnwr.oloadcdn.net/dl/l/EPEv8fLbwjKZxXz3/l0eBnS7maC4/computer_typing.webm?mime=truegit' type='video/webm' />--}}
                     </video>
                 </div>
 
