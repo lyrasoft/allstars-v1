@@ -77,6 +77,7 @@
                             <li><a href="{{ $uri['base'] }}plans/d.html">D 旗艦級客製化方案</a></li>
                         </ul>
                     </li>
+                    <li><a href="http://orion.the-allstars.com" target="_blank">系統整合服務</a></li>
                     <li><a href="{{ $uri['base'] }}#work">成功案例</a></li>
                     <li><a href="{{ $uri['base'] }}#contact">聯絡我們</a></li>
                 </ul>
