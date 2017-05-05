@@ -7,7 +7,7 @@
                 <h2 class="large section-title">聯絡我們</h2>
             </div><!--section heading-->
         </div><!--.container-->
-        <form name="sentMessage" action="https://api.formbucket.com/f/buk_XRtx81YfYAsUrZXZjd9FFOop" id="contactForm" method="post" novalidate>
+        <form name="sentMessage" action="#" id="contactForm" method="post" novalidate>
             <div class="container">
                 <div class="row xs-mb-50">
                     <div class="col-md-8">
