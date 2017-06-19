@@ -88,7 +88,7 @@
     </div><!--services section 1 end-->
 
     <!--testimonials-->
-    <div class="testi parallax bg-cover" data-stellar-background-ratio="0.5" style="background-image: url(http://i.imgur.com/906qDVP.jpg)">
+    <div class="testi parallax bg-cover" data-stellar-background-ratio="0.5" style="background-image: url(https://i.imgur.com/906qDVP.jpg)">
         <div class="container">
             <div class="row">
                 <div class="col-md-8 col-md-offset-2 text-center">

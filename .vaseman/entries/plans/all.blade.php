@@ -2,7 +2,7 @@
 layout: _global/innerpage
 title: 方案比較與附加元件
 meta:
-    image: http://i.imgur.com/D4BanJS.jpg
+    image: https://i.imgur.com/D4BanJS.jpg
 ---
 
 <article>

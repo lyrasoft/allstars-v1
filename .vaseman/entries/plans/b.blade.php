@@ -2,11 +2,11 @@
 layout: _global/plan-layout
 title: B 中小企業形象方案
 meta:
-    image: http://i.imgur.com/Adb1UF1.jpg
+    image: https://i.imgur.com/Adb1UF1.jpg
     desc: 隨著公司規模擴張，您需要更大型的網站、乘載更多資訊。中小企業形象方案讓您展現更有特色的公司形象，讓優質的網路門面成為您的最佳業務。
 ---
 
-<img class="img-responsive" src="http://i.imgur.com/Adb1UF1.jpg" alt="Preview">
+<img class="img-responsive" src="https://i.imgur.com/Adb1UF1.jpg" alt="Preview">
 
 <h2>B 中小企業形象方案</h2>
 

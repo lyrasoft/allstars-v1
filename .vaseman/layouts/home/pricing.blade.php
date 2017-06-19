@@ -101,7 +101,7 @@
     </div><!--price section one end here-->
 
 
-    <div class="pricing-section-2 parallax bg-cover" data-stellar-background-ratio="0.5" style="background-image: url(http://i.imgur.com/u71FTsG.jpg)">
+    <div class="pricing-section-2 parallax bg-cover" data-stellar-background-ratio="0.5" style="background-image: url(https://i.imgur.com/u71FTsG.jpg)">
         <div class="container text-center wow animated bounceIn">
             <h1>讓世界看見您的才華</h1>
             <p class="scrollto"><a href="#contact" class="btn btn-lg btn-theme-color">聯絡我們</a></p>
