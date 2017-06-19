@@ -16,7 +16,7 @@
             <div class="col-sm-4">
                 <div class="contact-col wow animated flipInY" data-wow-delay=".3s">
                     <i class="fa fa-home"></i>
-                    <p>106 大安區羅斯福路二段100號25F</p>
+                    <p>106 台北市大安區羅斯福路三段149號8樓之1</p>
                 </div>
             </div>
         </div>

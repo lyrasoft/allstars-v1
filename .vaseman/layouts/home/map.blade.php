@@ -5,9 +5,9 @@
 <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=true&key=AIzaSyAbgi_AVsZmVJf_BLgktVDVSZWuqMO-LWU"></script>
 <script type="text/javascript">
     var mapConfig = {
-        lat: 25.0261275,
-        lng: 121.5210278,
-        contentString: '<p>106 大安區羅斯福路二段100號25F</p>'
+        lat: 25.021768,
+        lng: 121.5251483,
+        contentString: '<p>106 台北市大安區羅斯福路三段149號8樓之1</p>'
     };
     var myLatlng;
     var map;
@@ -17,7 +17,7 @@
         myLatlng = new google.maps.LatLng(mapConfig.lat, mapConfig.lng);
 
         var mapOptions = {
-            zoom: 13,
+            zoom: 14,
             center: myLatlng,
             mapTypeId: google.maps.MapTypeId.ROADMAP,
             scrollwheel: false,
