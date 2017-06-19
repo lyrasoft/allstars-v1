@@ -5,8 +5,8 @@
 <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=true&key=AIzaSyAbgi_AVsZmVJf_BLgktVDVSZWuqMO-LWU"></script>
 <script type="text/javascript">
     var mapConfig = {
-        lat: 25.021768,
-        lng: 121.5251483,
+        lat: 25.021940,
+        lng: 121.527220,
         contentString: '<p>106 台北市大安區羅斯福路三段149號8樓之1</p>'
     };
     var myLatlng;
