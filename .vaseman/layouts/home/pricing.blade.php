@@ -16,10 +16,10 @@
                             <h1>A <br /> <small>微型企業啟動方案</small></h1>
                             <h2>$29,000</h2>
                             <div class="price-desc">
-                                <p>圖文排版 5 頁</p>
-                                <p>首頁橫幅 1 張</p>
+                                <p>文章上稿 5 頁</p>
+                                <p>橫幅設計 1 張</p>
                                 <p>簡易版聯絡表單</p>
-                                <p><i class="fa fa-times"></i></p>
+                                <p>最新消息與部落格</p>
                                 <p><i class="fa fa-times"></i></p>
                                 <p><i class="fa fa-times"></i></p>
                             </div>
@@ -36,11 +36,11 @@
                             <h1>B <br /> <small>中小企業形象方案</small></h1>
                             <h2>$49,000</h2>
                             <div class="price-desc">
-                                <p>圖文排版 10 頁</p>
-                                <p>首頁橫幅 3 張</p>
+                                <p>文章上稿 10 頁</p>
+                                <p>橫幅設計 3 張</p>
                                 <p>進階版聯絡表單</p>
                                 <p>最新消息與部落格</p>
-                                <p>任選3種功能元件</p>
+                                <p>任選2種功能元件</p>
                                 <p><i class="fa fa-times"></i></p>
                             </div>
 
@@ -56,11 +56,11 @@
                             <h1>C <br /> <small>多功能國際化方案</small></h1>
                             <h2>$69,000</h2>
                             <div class="price-desc">
-                                <p>圖文排版 15 頁</p>
-                                <p>首頁橫幅 5 張</p>
+                                <p>文章上稿 15 頁</p>
+                                <p>橫幅設計 5 張</p>
                                 <p>進階版聯絡表單</p>
                                 <p>最新消息與部落格</p>
-                                <p>任選5種功能元件</p>
+                                <p>任選3種功能元件</p>
                                 <p>多國語言</p>
                             </div>
 
