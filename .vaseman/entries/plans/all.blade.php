@@ -32,7 +32,7 @@ meta:
                         <p class="text-warning">標準型版面 <small><a href="#price-details">[1]</a></small></p>
                         <p class="text-danger">1 次修改調整次數 <small><a href="#price-details">[2]</a></small></p>
                         <p class="text-danger">文章上稿 5 頁 <small><a href="#price-details">[3]</a></small></p>
-                        <p class="text-danger">橫幅設計 1 張</p>
+                        <p class="text-danger">首頁橫幅設計 1 張</p>
                         <p class="text-danger">簡易版聯絡表單</p>
                         <p class="text-danger"><i class="fa fa-times"></i></p>
                         <p class="text-danger"><i class="fa fa-times"></i></p>
@@ -72,10 +72,10 @@ meta:
                         <p class="text-success">2 次修改調整次數 <small><a href="#price-details">[2]</a></small></p>
 
                         <p class="text-warning">文章上稿 10 頁 <small><a href="#price-details">[3]</a></small></p>
-                        <p class="text-warning">橫幅設計 3 張</p>
+                        <p class="text-warning">首頁橫幅設計 3 張</p>
                         <p class="text-success">進階版聯絡表單</p>
 
-                        <p class="text-warning">任選3種功能元件</p>
+                        <p class="text-warning">任選2種功能元件</p>
                         <p class="text-danger"><i class="fa fa-times"></i></p>
                     </div>
                     <h2>$49,000</h2>
@@ -112,7 +112,7 @@ meta:
                         <p class="text-success">2 次修改調整次數 <small><a href="#price-details">[2]</a></small></p>
 
                         <p class="text-success">文章上稿 15 頁 <small><a href="#price-details">[3]</a></small></p>
-                        <p class="text-success">橫幅設計 5 張</p>
+                        <p class="text-success">首頁橫幅設計 5 張</p>
                         <p class="text-success">進階版聯絡表單</p>
                         <p class="text-success">任選3種功能元件</p>
                         <p class="text-success">雙語系 (中/英) <small><a href="#price-details">[4]</a></small></p>

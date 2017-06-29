@@ -20,5 +20,3 @@ meta:
 @include('home.contact')
 
 @include('home.map')
-
-@include('home.contact-2')

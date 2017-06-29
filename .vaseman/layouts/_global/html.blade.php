@@ -91,6 +91,8 @@
     {!! $content !!}
 @show
 
+@include('home.contact-2')
+
 <section id="footer" class="padding-80">
     <div class="container">
         <div class="row">

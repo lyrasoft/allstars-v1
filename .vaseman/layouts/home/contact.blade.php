@@ -5,6 +5,13 @@
             <div class="section-heading text-center">
                 <h4 class="small section-title"><span>we Love to here from you  </span></h4>
                 <h2 class="large section-title">聯絡我們</h2>
+                <p class="lead">
+                    填寫聯絡表單，或者立即播打我們的免付費專線
+                </p>
+                <h3 style="font-size: 2.5em">
+                    <span class="fa fa-phone"></span>
+                    0800-086-168
+                </h3>
             </div><!--section heading-->
         </div><!--.container-->
         <form name="sentMessage" action="#" id="contactForm" method="post" novalidate>
@@ -88,7 +95,7 @@
                             <?php
                             $components = [
                             	[
-									'最新消息/部落格',
+//									'最新消息/部落格',
 									'留言版',
 									'友好連結/合作廠商',
 									'相簿藝廊',
@@ -96,8 +103,9 @@
                                     '員工介紹',
                                     '檔案下載',
                                     '線上影音',
-									'多人共筆部落格',
-									'Q&A問題集系統',
+//									'多人共筆部落格',
+									'問答討論區',
+									'FAQ 常見問題',
 									'線上行事曆',
 									'報名系統',
 								],
