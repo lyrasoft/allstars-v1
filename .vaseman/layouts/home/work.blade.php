@@ -12,9 +12,9 @@
             <ul class="filter list-inline">
                 <li><a class="active" href="#" data-filter="*">Show All</a></li>
                 {{--<li><a href="#" data-filter=".photography">Photography</a></li>--}}
-                {{--<li><a href="#" data-filter=".illustration">illustration</a></li>--}}
-                {{--<li><a href="#" data-filter=".branding">branding</a></li>--}}
                 <li><a href="#" data-filter=".web-design">網頁設計</a></li>
+                <li><a href="#" data-filter=".cart">購物車</a></li>
+                <li><a href="#" data-filter=".multi-lang">多國語言</a></li>
                 <li><a href="#" data-filter=".development">系統開發</a></li>
                 <li><a href="#" data-filter=".app">App</a></li>
             </ul>
