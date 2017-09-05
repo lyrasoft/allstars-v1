@@ -27,6 +27,18 @@
                 <a href="https://www.ichannels.com.tw" class="client-logo" target="_blank">
                     <img height="30" src="{{ $uri['media'] }}img/client/ichannels-logo.png" alt="iChannels">
                 </a>
+
+                <a href="http://www.jenching.com.tw/" class="client-logo" target="_blank">
+                    <img height="70" src="{{ $uri['media'] }}img/client/jenching-logo.png" alt="振晶店">
+                </a>
+
+                <a href="https://gooee.com/" class="client-logo" target="_blank">
+                    <img height="50" src="{{ $uri['media'] }}img/client/gooee-logo.png" alt="Gooee">
+                </a>
+
+                <a href="http://sabrinacosmos.com" class="client-logo" target="_blank">
+                    <img height="70" src="{{ $uri['media'] }}img/client/sabrina-logo.png" alt="Sabrina Cosmos">
+                </a>
             </p>
 
         </div><!--.container-->
