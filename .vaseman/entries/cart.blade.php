@@ -17,8 +17,8 @@ meta:
 
 @include('home.work')
 
-@include('home.contact')
-
 @include('home.clients')
+
+@include('home.contact')
 
 @include('home.map')
