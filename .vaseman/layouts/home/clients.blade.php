@@ -32,6 +32,10 @@
                     {{--<img height="70" src="{{ $uri['media'] }}img/client/jenching-logo.png" alt="振晶店">--}}
                 {{--</a>--}}
 
+                <a href="http://www.ntu.edu.tw/" class="client-logo" target="_blank">
+                    <img height="70" src="{{ $uri['media'] }}img/client/ntu-logo.png" alt="台大">
+                </a>
+
                 <a href="https://www.spgateway.com" class="client-logo" target="_blank">
                     <img height="70" src="{{ $uri['media'] }}img/client/spgateway-logo.png" alt="智付通">
                 </a>
@@ -44,9 +48,9 @@
                     <img height="70" src="{{ $uri['media'] }}img/client/sabrina-logo.png" alt="Sabrina Cosmos">
                 </a>
 
-                <a href="http://www.clickforce.com.tw/" class="client-logo" target="_blank">
-                    <img height="70" src="{{ $uri['media'] }}img/client/clickforce-logo.png" alt="Clickforce">
-                </a>
+                {{--<a href="http://www.clickforce.com.tw/" class="client-logo" target="_blank">--}}
+                    {{--<img height="70" src="{{ $uri['media'] }}img/client/clickforce-logo.png" alt="Clickforce">--}}
+                {{--</a>--}}
             </p>
 
         </div><!--.container-->
