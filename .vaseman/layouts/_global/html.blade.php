@@ -11,6 +11,9 @@
     <link href="{{ $uri['media'] }}img/favicon.png" rel="shortcut icon" type="image/vnd.microsoft.icon" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
+    {{-- Webmaster --}}
+    <meta name="google-site-verification" content="1NaipXHnmybBR6bCDLktFnHX8s-5HAbm8kWAitMh8-4" />
+
     <meta name="description" content="{{ $config['meta.desc'] }}" />
     <meta property="og:image" content="{{ $config['meta.image'] }}"/>
     <meta property="og:title" content="{{ $config['home'] ? $config['project.name'] : $config['title'] . '|' . $config['project.name'] }}"/>
