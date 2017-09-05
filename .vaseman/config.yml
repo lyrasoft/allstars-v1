@@ -2,6 +2,8 @@ system:
     debug: 0
     timezone: 'UTC'
     error_reporting: -1
+site:
+    root: http://the-allstars.com
 project:
     name: Allstars 星辰資訊 - 專業網頁設計/購物車/形象網站專家
 
