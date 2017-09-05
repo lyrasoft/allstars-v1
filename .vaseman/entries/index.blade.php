@@ -19,4 +19,6 @@ meta:
 
 @include('home.contact')
 
+@include('home.clients')
+
 @include('home.map')
