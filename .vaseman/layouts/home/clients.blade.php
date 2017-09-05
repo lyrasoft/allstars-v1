@@ -8,28 +8,23 @@
             </div><!--section heading-->
 
             <p class="text-center">
-                <a href="http://www.tkec.com.tw/" class="client-logo" target="_blank"
-                    data-toggle="tooltip" data-placement="top" title="燦坤">
+                <a href="http://www.tkec.com.tw/" class="client-logo" target="_blank">
                     <img height="70" src="{{ $uri['media'] }}img/client/tsannkuen-logo.png" alt="燦坤">
                 </a>
 
-                <a href="http://tw.amaryllo.eu" class="client-logo" target="_blank"
-                    data-toggle="tooltip" data-placement="top" title="愛瑪麗歐 安防機器人">
+                <a href="http://tw.amaryllo.eu" class="client-logo" target="_blank">
                     <img height="70" src="{{ $uri['media'] }}img/client/amaryllo-logo.png" alt="Amaryllo">
                 </a>
 
-                <a href="http://www.blisswisdom.org/" class="client-logo" target="_blank"
-                    data-toggle="tooltip" data-placement="top" title="福智佛教基金會">
+                <a href="http://www.blisswisdom.org/" class="client-logo" target="_blank">
                     <img height="70" src="{{ $uri['media'] }}img/client/bliss-logo.png" alt="福智">
                 </a>
 
-                <a href="http://www.zhanlu-coffee.com/" class="client-logo" target="_blank"
-                    data-toggle="tooltip" data-placement="top" title="湛盧咖啡">
+                <a href="http://www.zhanlu-coffee.com/" class="client-logo" target="_blank">
                     <img height="70" src="{{ $uri['media'] }}img/client/zhanlu-logo.jpg" alt="湛盧">
                 </a>
 
-                <a href="https://www.ichannels.com.tw" class="client-logo" target="_blank"
-                    data-toggle="tooltip" data-placement="top" title="iChannels 通路王">
+                <a href="https://www.ichannels.com.tw" class="client-logo" target="_blank">
                     <img height="30" src="{{ $uri['media'] }}img/client/ichannels-logo.png" alt="iChannels">
                 </a>
 
@@ -37,18 +32,15 @@
                     {{--<img height="70" src="{{ $uri['media'] }}img/client/jenching-logo.png" alt="振晶店">--}}
                 {{--</a>--}}
 
-                <a href="https://gooee.com/" class="client-logo" target="_blank"
-                    data-toggle="tooltip" data-placement="top" title="香港商酷異 Gooee">
+                <a href="https://gooee.com/" class="client-logo" target="_blank">
                     <img height="50" src="{{ $uri['media'] }}img/client/gooee-logo.png" alt="Gooee">
                 </a>
 
-                <a href="http://sabrinacosmos.com" class="client-logo" target="_blank"
-                    data-toggle="tooltip" data-placement="top" title="莎碧琳娜">
+                <a href="http://sabrinacosmos.com" class="client-logo" target="_blank">
                     <img height="70" src="{{ $uri['media'] }}img/client/sabrina-logo.png" alt="Sabrina Cosmos">
                 </a>
 
-                <a href="http://www.clickforce.com.tw/" class="client-logo" target="_blank"
-                    data-toggle="tooltip" data-placement="top" title="域動行銷">
+                <a href="http://www.clickforce.com.tw/" class="client-logo" target="_blank">
                     <img height="70" src="{{ $uri['media'] }}img/client/clickforce-logo.png" alt="Clickforce">
                 </a>
             </p>
