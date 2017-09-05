@@ -3,7 +3,7 @@ system:
     timezone: 'UTC'
     error_reporting: -1
 project:
-    name: Allstars 星辰設計 - 專業網頁設計與雲端系統開發
+    name: Allstars 星辰資訊 - Joomla! 網頁設計/購物車/形象網站專家
 
 # Which folders you want to generate (Array)
 folders:
