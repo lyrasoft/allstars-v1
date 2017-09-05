@@ -32,6 +32,10 @@
                     {{--<img height="70" src="{{ $uri['media'] }}img/client/jenching-logo.png" alt="振晶店">--}}
                 {{--</a>--}}
 
+                <a href="https://www.spgateway.com" class="client-logo" target="_blank">
+                    <img height="70" src="{{ $uri['media'] }}img/client/spgateway-logo.png" alt="智付通">
+                </a>
+
                 <a href="https://gooee.com/" class="client-logo" target="_blank">
                     <img height="50" src="{{ $uri['media'] }}img/client/gooee-logo.png" alt="Gooee">
                 </a>
