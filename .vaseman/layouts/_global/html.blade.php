@@ -78,6 +78,7 @@
                             <li><a href="{{ $uri['base'] }}plans/b.html">B 中小企業形象方案</a></li>
                             <li><a href="{{ $uri['base'] }}plans/c.html">C 多功能國際化方案</a></li>
                             <li><a href="{{ $uri['base'] }}plans/d.html">D 旗艦級客製化方案</a></li>
+                            <li><a href="{{ $uri['base'] }}cart.html">Joomla! 購物車方案</a></li>
                         </ul>
                     </li>
                     <li><a href="http://orion.the-allstars.com" target="_blank">系統整合服務</a></li>
