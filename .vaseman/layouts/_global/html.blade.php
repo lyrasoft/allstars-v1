@@ -82,6 +82,7 @@
                         </ul>
                     </li>
                     <li><a href="http://orion.the-allstars.com" target="_blank">系統整合服務</a></li>
+                    <li><a href="http://gallery.the-allstars.com" target="_blank">網站藝廊</a></li>
                     <li><a href="{{ $config['landing'] ? '' : $uri['base'] }}#work">成功案例</a></li>
                     <li><a href="{{ $config['landing'] ? '' : $uri['base'] }}#contact">聯絡我們</a></li>
                 </ul>
@@ -106,6 +107,8 @@
             <div class="col-md-6 col-sm-6 footer-nav">
                 <ul class="list-inline">
                     <li><a href="#">Home</a></li>
+                    <li><a href="http://orion.the-allstars.com/" target="_blank">系統開發服務</a></li>
+                    <li><a href="http://gallery.the-allstars.com/" target="_blank">網站藝廊</a></li>
                     {{--<li><a href="blog-list.html">Latest news</a></li>--}}
                     {{--<li><a href="typography.html">Typography</a></li>--}}
                 </ul>
