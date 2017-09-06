@@ -66,10 +66,10 @@
             <div class="navbar-collapse collapse">
 
                 <ul class="nav navbar-nav navbar-right scrollto">
-                    <li><a href="{{ $uri['base'] }}#home">首頁</a></li>
-                    <li><a href="{{ $uri['base'] }}#about">關於我們</a></li>
-                    <li><a href="{{ $uri['base'] }}#services">功能特色</a></li>
-                    <li><a href="{{ $uri['base'] }}#pricing">網站方案</a></li>
+                    <li><a href="{{ $config['landing'] ? '' : $uri['base'] }}#home">首頁</a></li>
+                    <li><a href="{{ $config['landing'] ? '' : $uri['base'] }}#about">關於我們</a></li>
+                    <li><a href="{{ $config['landing'] ? '' : $uri['base'] }}#services">功能特色</a></li>
+                    <li><a href="{{ $config['landing'] ? '' : $uri['base'] }}#pricing">網站方案</a></li>
                     <li class="dropdown">
                         <span data-toggle="dropdown" class="dropdown-toggle js-activated">方案細節 <b class="caret"></b></span>
                         <ul class="dropdown-menu">
@@ -82,8 +82,8 @@
                         </ul>
                     </li>
                     <li><a href="http://orion.the-allstars.com" target="_blank">系統整合服務</a></li>
-                    <li><a href="{{ $uri['base'] }}#work">成功案例</a></li>
-                    <li><a href="{{ $uri['base'] }}#contact">聯絡我們</a></li>
+                    <li><a href="{{ $config['landing'] ? '' : $uri['base'] }}#work">成功案例</a></li>
+                    <li><a href="{{ $config['landing'] ? '' : $uri['base'] }}#contact">聯絡我們</a></li>
                 </ul>
 
             </div><!--/.nav-collapse -->
