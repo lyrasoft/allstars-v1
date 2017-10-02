@@ -1,7 +1,7 @@
 <!--section services start here-->
 <section id="services" class="padding-80">
 
-    <div class="services-section-1">
+    <div class="services-section-1" style="margin-bottom: 0;">
         <div class="container">
             <div class="section-heading text-center">
                 <h4 class="small section-title"><span>What we do?</span></h4>
@@ -84,6 +84,10 @@
                 </div>
             </div>
 
+        </div>
+        
+        <div class="container xs-mt-75">
+            <img class="cart-preview-img img-responsive" src="https://i.imgur.com/vgFBXxY.jpg" alt="Joomla cart preview">
         </div>
     </div><!--services section 1 end-->
 

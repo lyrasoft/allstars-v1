@@ -14,7 +14,7 @@
                     <div class="pricing-wrapper wow animated fadeInDown" data-wow-delay=".3s">
                         <div class="pricing-wrapper-inner">
                             <h1>A <br /> <small>微型企業啟動方案</small></h1>
-                            <h2>$54,000<small style="color: #9eca45;">起</small></h2>
+                            <h2>$59,000<small style="color: #9eca45;">起</small></h2>
                             <div class="price-desc">
                                 <p>網站 + 購物車系統</p>
                                 <p>文章上稿 5 頁</p>
@@ -35,7 +35,7 @@
                     <div class="pricing-wrapper price-popular wow animated fadeInUp" data-wow-delay=".6s">
                         <div class="pricing-wrapper-inner">
                             <h1>B <br /> <small>中小企業形象方案</small></h1>
-                            <h2>$74,000<small style="color: #9eca45;">起</small></h2>
+                            <h2>$79,000<small style="color: #9eca45;">起</small></h2>
                             <div class="price-desc">
                                 <p>網站 + 購物車系統</p>
                                 <p>文章上稿 10 頁</p>
@@ -56,7 +56,7 @@
                     <div class="pricing-wrapper wow animated fadeInUp" data-wow-delay=".9s">
                         <div class="pricing-wrapper-inner">
                             <h1>C <br /> <small>多功能國際化方案</small></h1>
-                            <h2>$94,000<small style="color: #9eca45;">起</small></h2>
+                            <h2>$99,000<small style="color: #9eca45;">起</small></h2>
                             <div class="price-desc">
                                 <p>網站 + 購物車系統</p>
                                 <p>文章上稿 15 頁</p>
@@ -77,7 +77,7 @@
                     <div class="pricing-wrapper wow animated fadeInRight" data-wow-delay=".9s">
                         <div class="pricing-wrapper-inner">
                             <h1>D <br /> <small>旗艦級客製化方案</small></h1>
-                            <h2 style="font-size: 2.3em;">$125,000<small style="color: #9eca45;">起</small></h2>
+                            <h2 style="font-size: 2.3em;">$130,000<small style="color: #9eca45;">起</small></h2>
                             <div class="price-desc">
                                 <p>網站 + 購物車系統</p>
                                 <p>依需求客製</p>
