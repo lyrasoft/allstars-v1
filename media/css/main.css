@@ -88,6 +88,10 @@ body.not-home .navbar {
   background-color: #333;
   color: #f6f6f6;
 }
+.cart-preview-img {
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-bottom: none;
+}
 .testi h4 {
   font-size: 21px;
   font-family: "Source Sans Pro", 'PingFang TC', 'Heiti TC', '微軟正黑體', sans-serif;
