@@ -207,7 +207,7 @@ meta:
                 </li>
 
                 <li>
-                    <a href="#shop">購物車功能</a>
+                    <a href="#shop">購物車附加功能</a>
                 </li>
 
                 <li>
@@ -240,9 +240,9 @@ meta:
         </div>
 
         <div id="shop" class="addon-section xs-mt-50">
-            <h3 class="xs-mb-30">購物車功能</h3>
+            <h3 class="xs-mb-30">購物車附加功能</h3>
 
-            <p>購物車功能為獨立套件，不屬於附加功能元件項目之中</p>
+            <p>購物車功能為 <a href="{{ $uri['base'] }}cart.html">開店超 EZ 方案</a> 專屬，無法從一般方案加購。</p>
 
             <div class="table-responsive">
                 @include('plans/shop')

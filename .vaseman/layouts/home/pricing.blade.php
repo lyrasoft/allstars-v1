@@ -101,10 +101,15 @@
     </div><!--price section one end here-->
 
 
-    <div class="pricing-section-2 parallax bg-cover" data-stellar-background-ratio="0.5" style="background-image: url(https://i.imgur.com/u71FTsG.jpg)">
+    <div class="pricing-section-2 parallax bg-cover" data-stellar-background-ratio="0.5" style="background-image: url(https://i.imgur.com/wBOag4u.jpg)">
         <div class="container text-center wow animated bounceIn">
-            <h1>讓世界看見您的才華</h1>
-            <p class="scrollto"><a href="#contact" class="btn btn-lg btn-theme-color">聯絡我們</a></p>
+            <h1>我們也是電商、購物網站建置專家</h1>
+            <p class="scrollto">
+                <a href="{{ $uri['base'] }}cart.html" class="btn btn-lg btn-primary btn-hero">
+                    <span class="fa fa-star"></span>
+                    開店超 EASY 購物車方案
+                </a>
+            </p>
         </div>
     </div>
 
