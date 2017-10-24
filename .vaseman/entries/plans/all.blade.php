@@ -188,9 +188,13 @@ meta:
     </div>
 
     <aside class="choose-button text-center xs-mt-100">
-        <a href="{{ $uri['base'] }}#contact" class="btn btn-warning btn-hero">
+        <a href="{{ $uri['base'] }}#contact" class="btn btn-primary btn-hero">
             <span class="fa fa-sign-in"></span>
-            立即選購方案
+            立即選購網站方案
+        </a>
+        <a href="{{ $uri['base'] }}#contact" class="btn btn-warning btn-hero">
+            <span class="fa fa-shopping-cart"></span>
+            購物車方案請看此
         </a>
     </aside>
 
@@ -304,9 +308,13 @@ meta:
     </section>
 
     <aside class="choose-button text-center xs-mt-100 xs-mb-100">
-        <a href="{{ $uri['base'] }}#contact" class="btn btn-warning btn-hero">
+        <a href="{{ $uri['base'] }}#contact" class="btn btn-primary btn-hero">
             <span class="fa fa-sign-in"></span>
-            立即選購方案
+            立即選購網站方案
+        </a>
+        <a href="{{ $uri['base'] }}#contact" class="btn btn-warning btn-hero">
+            <span class="fa fa-shopping-cart"></span>
+            購物車方案請看此
         </a>
     </aside>
 
