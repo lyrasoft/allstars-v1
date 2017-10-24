@@ -760,7 +760,7 @@
 
                                     <div class="col-md-6">
                                         <div class="single_contant_left contactform">
-                                            <form name="sentMessage" action="https://api.formbucket.com/f/buk_XRtx81YfYAsUrZXZjd9FFOop" id="contactForm" method="post" novalidate>
+                                            <form name="sentMessage" action="https://api.formbucket.com/f/buk_Gjk9jlaW0JdYXXqDR5XFa0QZ" id="contactForm" method="post" novalidate>
                                                 <div class="col-md-12">
                                                     <div class="row">
                                                         <div class="col-md-6">
@@ -808,9 +808,9 @@
                                                                 <div class="form-group col-xs-12 controls">
                                                                     <label>考慮方案<span>*</span></label>
                                                                     <select class="form-control" name="plan" id="plan">
-                                                                        <option value="新創開業方案">LUNA 新創開業方案 - $80,000</option>
-                                                                        <option value="形象企業方案">VEGA 形象企業方案 - $120,000</option>
-                                                                        <option value="網路電商旗艦版">NOVA 網路電商旗艦版 - $170,000</option>
+                                                                        <option value="LUNA 新創開業方案">LUNA 新創開業方案 - $80,000</option>
+                                                                        <option value="VEGA 形象企業方案">VEGA 形象企業方案 - $120,000</option>
+                                                                        <option value="NOVA 網路電商旗艦版">NOVA 網路電商旗艦版 - $170,000</option>
                                                                         <option value="合作洽詢">合作洽詢</option>
                                                                     </select>
                                                                     <p class="help-block"></p>
@@ -952,6 +952,7 @@
         <script src="assets/css/slick/slick.js"></script>
         <script src="assets/css/slick/slick.min.js"></script>
 
+        <script src="//unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
 
         <script src="assets/js/plugins.js"></script>
         <script src="assets/js/main.js"></script>
@@ -960,6 +961,15 @@
             $(function () {
                 $('[data-toggle="tooltip"]').tooltip();
             });
+
+            // Send form
+            var urlParams = new URLSearchParams(window.location.search);
+
+            if (urlParams.has('contact-complete')) {
+                var text = '您的訊息已發送，感謝您，我們將盡快聯絡。';
+
+                swal(text, '', 'success');
+            }
         </script>
 
     </body>
