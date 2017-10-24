@@ -18,7 +18,8 @@ body {
     margin-right: 0;
     font-weight: 300;
     width:100%;
-    font-family: 'ralewayregular';
+    font-family: 'ralewayregular', 微軟正黑體, sans-serif;
+    font-size: 16px;
 }
 .preloader {
     position: fixed;
@@ -1064,6 +1065,10 @@ button.btn-md:hover {
 .pricing_business .pricing_head h3{
     color:#fff;
 }
+.pricing_head p {
+    color:#fff;
+    font-size: 1em;
+}
 .pricing_business .btn-md{
     background: #e74c3c;
 }
@@ -1493,8 +1498,12 @@ li .single_team_text p{
 
 }
 
+/* Asika */
 
-
+.tooltip.in {
+    font-size: 1em;
+    padding: 5px 7px;
+}
 
 
 
