@@ -81,7 +81,7 @@
                             <li><a href="{{ $uri['base'] }}cart.html">開店超 EZ 購物車方案</a></li>
                         </ul>
                     </li>
-                    <li><a href="http://orion.the-allstars.com" target="_blank">系統整合服務</a></li>
+                    <li><a href="https://orion.the-allstars.com" target="_blank">系統開發與整合</a></li>
                     <li><a href="http://gallery.the-allstars.com" target="_blank">網站藝廊</a></li>
                     <li><a href="{{ $config['landing'] ? '' : $uri['base'] }}#work">成功案例</a></li>
                     <li><a href="{{ $config['landing'] ? '' : $uri['base'] }}#contact">聯絡我們</a></li>
