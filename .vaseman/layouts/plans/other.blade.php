@@ -46,7 +46,12 @@
     <tr>
 	    <td>Google Suite 企業信箱代為設置</td>
 	    <td>$3,000</td>
-	    <td>首次設置完成後便可自行操作</td>
+	    <td>
+            用 <a href="https://gsuite.google.com.tw" target="_blank">Google Suite</a> 代管您的企業信箱，可用強大的 Gmail
+            介面收發企業信件。
+            <br />
+            星辰可協助申請與設定，首次設置完成後便可自行操作。
+        </td>
     </tr>
     <tr>
         <td>高客製化版型</td>

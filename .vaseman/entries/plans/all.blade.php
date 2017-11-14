@@ -247,7 +247,7 @@ meta:
         <div id="shop" class="addon-section xs-mt-50">
             <h3 class="xs-mb-30">購物車附加功能</h3>
 
-            <p>購物車功能為 <a href="{{ $uri['base'] }}cart.html">開店超 EZ 方案</a> 專屬，無法從一般方案加購。</p>
+            <p>購物車功能可參考 <a href="{{ $uri['base'] }}cart.html">開店超 EZ 方案</a> 介紹頁面。</p>
 
             <div class="table-responsive">
                 @include('plans/shop')
