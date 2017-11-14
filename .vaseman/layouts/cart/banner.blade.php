@@ -47,7 +47,7 @@
                     data-endelementdelay="0.1"
                     data-endspeed="300"
                     style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;">
-                    Joomla 全方位購物車網站
+                    品牌經營，網路開店超 EAZY！
                 </div>
                 <!-- Home Subheading -->
                 <div class="tp-caption ken-burns-cap sft fadeout"
@@ -62,7 +62,7 @@
                     data-endelementdelay="0.1"
                     data-endspeed="300"
                     style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;">
-                    在網路上建立自己的事業
+                    全新電商系統，輕鬆建立您的購物平台
                 </div>
                 <!-- Home Button -->
                 <div class="tp-caption home-button sft fadeout"
@@ -147,7 +147,7 @@
                     data-endelementdelay="0.1"
                     data-endspeed="300"
                     style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;">
-                    符合國內消費習慣與金流串接
+                    獨家特製後台快捷管理架構，簡單且豐富的操作介面，<br>輕鬆管理商品＆編輯網站文章！
                 </div>
                 <!-- Home Button -->
                 <div class="tp-caption rev-buttons sft fadeout"

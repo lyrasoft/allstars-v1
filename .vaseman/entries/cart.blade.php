@@ -1,6 +1,6 @@
 ---
 layout: _global/html
-title: Joomla! 購物車網站方案
+title: 開店超 EZ Joomla! 購物車網站方案
 home: false
 landing: true
 meta:
@@ -10,7 +10,7 @@ meta:
 
 @include('cart.banner')
 
-@include('home.about')
+@include('cart.about')
 
 @include('cart.service')
 
