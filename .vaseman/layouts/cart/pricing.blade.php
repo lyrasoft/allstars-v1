@@ -105,10 +105,10 @@
     </div><!--price section one end here-->
 
 
-    <div class="pricing-section-2 parallax bg-cover" data-stellar-background-ratio="0.5" style="background-image: url(https://i.imgur.com/u71FTsG.jpg)">
+    <div class="pricing-section-2 parallax bg-cover" data-stellar-background-ratio="0.5" style="background-image: url(https://i.imgur.com/SXy87Vz.jpg)">
         <div class="container text-center wow animated bounceIn">
-            <h1>讓世界看見您的才華</h1>
-            <p class="scrollto"><a href="#contact" class="btn btn-lg btn-theme-color">聯絡我們</a></p>
+            <h1>別猶豫，您的事業即將展開</h1>
+            <p class="scrollto"><a href="#contact" class="btn btn-lg btn-theme-color">立即聯絡我們</a></p>
         </div>
     </div>
 

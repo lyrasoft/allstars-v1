@@ -175,7 +175,7 @@
         </div>
     </div>
 
-    <div class="purchase-now parallax" data-stellar-background-ratio="0.5" style="background-image: url(https://i.imgur.com/9SZuw0c.jpg);">
+    <div class="purchase-now parallax" data-stellar-background-ratio="0.5" style="background-image: url(https://i.imgur.com/6LjrKjS.jpg);">
         <div class="container">
             <div class="row">
                 <div class="col-sm-8">

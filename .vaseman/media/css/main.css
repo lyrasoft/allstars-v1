@@ -110,6 +110,9 @@ body.not-home .navbar {
   color: #666;
   font-size: 16px;
 }
+.pricing-section-2 {
+  padding: 150px 0;
+}
 #clients {
   background-color: #f5f5f5;
 }

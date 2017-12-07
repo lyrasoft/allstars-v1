@@ -101,7 +101,7 @@
     </div><!--price section one end here-->
 
 
-    <div class="pricing-section-2 parallax bg-cover" data-stellar-background-ratio="0.5" style="background-image: url(https://i.imgur.com/wBOag4u.jpg)">
+    <div class="pricing-section-2 parallax bg-cover" data-stellar-background-ratio="0.5" style="background-image: url(https://i.imgur.com/Bjtkt0y.jpg)">
         <div class="container text-center wow animated bounceIn">
             <h1>我們也是電商、購物網站建置專家</h1>
             <p class="scrollto">
