@@ -177,9 +177,3 @@
     </div>
 
 </div>	<!--video slider-->
-
-<script>
-    $(function () {
-        $('.tp-banner-container').show();
-    });
-</script>

@@ -154,7 +154,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-8">
-                    <h1 class="wow animated fadeInLeft" data-wow-delay="0.3s">用設計，讓您的 <strong>事業</strong> 騰空起飛</h1>
+                    <h1 class="wow animated fadeInLeft" data-wow-delay="0.3s">用設計，讓您的 <strong>事業</strong><br class="visible-xs" /> 騰空起飛</h1>
                 </div>
                 <div class="col-sm-4 scrollto">
                     <a href="#pricing" class="btn btn-lg btn-theme-color wow animated bounceIn" data-wow-delay="0.6s"> 了解網站方案</a>
