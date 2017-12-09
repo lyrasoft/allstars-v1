@@ -1,5 +1,5 @@
 {{-- Part of allstars project. --}}
-<div class="tp-banner-container" id="home">
+<div class="tp-banner-container" id="home" style="display: none;">
     <div class="tp-banner-video">
         <ul>
             <!-- SLIDE  -->
@@ -177,3 +177,9 @@
     </div>
 
 </div>	<!--video slider-->
+
+<script>
+    $(function () {
+        $('.tp-banner-container').show();
+    });
+</script>

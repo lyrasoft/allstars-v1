@@ -1,6 +1,6 @@
 ---
 layout: _global/html
-title: 開店超 EZ Joomla! 購物車網站方案
+title: 開店超 Easy Joomla! 購物車網頁設計
 home: false
 landing: true
 meta:
