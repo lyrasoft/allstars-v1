@@ -1,4 +1,9 @@
 -
+    title: 汎德沙發
+    link: ~
+    img: https://i.imgur.com/cO6lTDM.jpg
+    tags: web-design development
+-
     title: 科技部「AI 創新研究中心」專案計畫推動辦公室
     link: ~
     img: https://i.imgur.com/DtZXfFI.jpg
@@ -103,31 +108,31 @@
     link: http://educatorchannel.today/
     img: https://i.imgur.com/KSBemAJ.jpg
     tags: development app
--
-    title: WinsoundStudio
-    link: http://winsoundstudio.com/
-    img: https://i.imgur.com/lxbZUJp.jpg
-    tags:
--
-    title: 樂活動物協會
-    link:
-    img: https://i.imgur.com/0VkrwSz.jpg
-    tags: web-design
+#-
+#    title: WinsoundStudio
+#    link: http://winsoundstudio.com/
+#    img: https://i.imgur.com/lxbZUJp.jpg
+#    tags:
+#-
+#    title: 樂活動物協會
+#    link:
+#    img: https://i.imgur.com/0VkrwSz.jpg
+#    tags: web-design
 -
     title: 租借管理系統
     link:
     img: https://i.imgur.com/Pn2VOdk.png
     tags: web-design development
--
-    title: 新世紀卓越師資精進計畫
-    link:
-    img: https://i.imgur.com/ZdqGtm6.png
-    tags: web-design
--
-    title: 數位公共領域研討會
-    link:
-    img: https://i.imgur.com/UUEp3JF.jpg
-    tags: web-design
+#-
+#    title: 新世紀卓越師資精進計畫
+#    link:
+#    img: https://i.imgur.com/ZdqGtm6.png
+#    tags: web-design
+#-
+#    title: 數位公共領域研討會
+#    link:
+#    img: https://i.imgur.com/UUEp3JF.jpg
+#    tags: web-design
 #-
 #    title:
 #    link:
