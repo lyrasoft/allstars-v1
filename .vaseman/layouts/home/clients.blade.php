@@ -24,8 +24,8 @@
                     <img height="70" src="{{ $uri['media'] }}img/client/zhanlu-logo.jpg" alt="湛盧">
                 </a>
 
-                <a href="https://www.ichannels.com.tw" class="client-logo" target="_blank">
-                    <img height="30" src="{{ $uri['media'] }}img/client/ichannels-logo.png" alt="iChannels">
+                <a href="http://www.pan-pacific.com.tw" class="client-logo" target="_blank">
+                    <img height="70" src="{{ $uri['media'] }}img/client/panpacific-logo.png" alt="Panpacific">
                 </a>
 
                 {{--<a href="http://www.jenching.com.tw/" class="client-logo" target="_blank">--}}
@@ -36,8 +36,8 @@
                     <img height="70" src="{{ $uri['media'] }}img/client/ntu-logo.png" alt="台大">
                 </a>
 
-                <a href="https://www.spgateway.com" class="client-logo" target="_blank">
-                    <img height="70" src="{{ $uri['media'] }}img/client/spgateway-logo.png" alt="智付通">
+                <a href="http://www.nthu.edu.tw/" class="client-logo" target="_blank">
+                    <img height="50" src="{{ $uri['media'] }}img/client/nthu-logo.png" alt="國立清華大學">
                 </a>
 
                 <a href="https://gooee.com/" class="client-logo" target="_blank">
