@@ -1,5 +1,5 @@
 {{-- Part of allstars project. --}}
-<div class="tp-banner-container" id="home" style="display: none;">
+<div class="tp-banner-container" id="home" style="visibility: hidden;">
     <div class="tp-banner-video">
         <ul>
             <!-- SLIDE  -->
