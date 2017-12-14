@@ -1,6 +1,6 @@
 ---
 layout: _global/html
-title: Allstars 星辰資訊
+title: Allstars 網頁設計
 home: true
 landing: true
 meta:

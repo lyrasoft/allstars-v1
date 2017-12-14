@@ -5,7 +5,7 @@ system:
 site:
     root: http://the-allstars.com
 project:
-    name: Allstars 星辰資訊 - 專業網頁設計/購物車/形象網站專家
+    name: Allstars 網頁設計 - 星辰資訊購物車/形象網站專家
 
 # Which folders you want to generate (Array)
 folders:
