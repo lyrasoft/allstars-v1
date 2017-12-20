@@ -1,6 +1,6 @@
 ---
 layout: _global/html
-title: 開店超 Easy Joomla! 購物車網頁設計
+title: 購物車網頁設計-開店超 Easy!
 home: false
 landing: true
 meta:
