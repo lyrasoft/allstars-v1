@@ -94,27 +94,36 @@
                 <div class="col-md-8 col-md-offset-2 text-center">
                     <div id="testi-carousel" class="owl-carousel">
                         <div>
-                            <img src="{{ $uri['media'] }}img/client/client-1.png" alt="">
+                            <img width="150" height="150" src="https://i.imgur.com/n68EG7M.png" alt="">
                             <p class="xs-mt-15">
-                                網站上線後幫了我很大的忙，現在每天都會有人詢問美容、時尚彩妝、新祕造型等相關課程，有時甚至到10幾封以上，星辰設計的團隊確實令人佩服。
+                                服務親切，效率佳！
                             </p>
-                            <h4>秀妃美容造型設計</h4>
+                            <p>{!! str_repeat('<span class="fa fa-star"></span>', 5) !!}</p>
+                            <h4>科技部/清大 AI創新專案計畫推動辦公室</h4>
                         </div><!--testimonials item like paragraph-->
                         <div>
-                            <img src="{{ $uri['media'] }}img/client/client-2.png" alt="">
+                            <img width="150" height="150" src="https://i.imgur.com/18rpnaJ.jpg" alt="">
                             <p class="xs-mt-15">
-                                星辰能夠依照我們的需求，提供適合的方案，做出通盤的規劃，而且收費合理，
-                                設計出符合事業特質的網站風格，是令人信賴、值得推薦的專業網站設計規劃公司
+                                服務很棒、很貼心、很待客戶著想，能給客戶清楚、能幫助的建議~
                             </p>
-                            <h4>合毅電子</h4>
+                            <p>{!! str_repeat('<span class="fa fa-star"></span>', 5) !!}</p>
+                            <h4>福智佛教基金會</h4>
                         </div><!--testimonials item like paragraph-->
                         <div>
-                            <img src="{{ $uri['media'] }}img/client/client-3.png" alt="">
+                            <img width="150" height="150" src="{{ $uri['media'] }}img/client/client-3.png" alt="">
                             <p class="xs-mt-15">
-                                非常感謝您的幫忙，無論什麼疑難雜症，您都可以搞定，自從您為我們設計網站之後，
-                                業績越來越好，網站真的很重要，非常感謝。
+                                網頁很有設計感，簡潔、大方，售後服務效率很好。
                             </p>
-                            <h4>建宏車業</h4>
+                            <p>{!! str_repeat('<span class="fa fa-star"></span>', 5) !!}</p>
+                            <h4>唐先生</h4>
+                        </div><!--testimonials item like paragraph-->
+                        <div>
+                            <img width="150" height="150" src="{{ $uri['media'] }}img/client/client-2.png" alt="">
+                            <p class="xs-mt-15">
+                                公司非常具有設計感，是一家年輕有創意的網頁公司!!
+                            </p>
+                            <p>{!! str_repeat('<span class="fa fa-star"></span>', 5) !!}</p>
+                            <h4>許先生</h4>
                         </div><!--testimonials item like paragraph-->
                     </div>
                 </div>
