@@ -5,7 +5,7 @@
         <div class="container">
             <div class="section-heading text-center">
                 <h4 class="small section-title"><span>Choose a plan</span></h4>
-                <h2 class="large section-title">網站方案</h2>
+                <h2 class="large section-title">網頁設計方案</h2>
             </div><!--section heading-->
         </div><!--section heading-->
         <div class="container">
